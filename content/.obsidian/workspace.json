@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "0f1491ea4063ef65",
+    "type": "split",
+    "children": [
+      {
+        "id": "0977d053b27a6916",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66422429eedd8334",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d41d35f5451492dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ea164f4546a76ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e1554efe6a5a439",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a22e1f2c4a7804f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cfbb87cf50ebbdcb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6a0d988e729884b",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e78417db4179eab",
+    "type": "split",
+    "children": [
+      {
+        "id": "0baa81c8b82792b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "147aa6ace113ac71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0bf995459f6e998f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac55e70988f670cc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7375fde5fadbb39e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "09ea0a675a41ded4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-spaced-repetition:复习卡片": false
+    }
+  },
+  "active": "66422429eedd8334",
+  "lastOpenFiles": [
+    "thoughts/学习总结.md",
+    "thoughts/我有独特的摸鱼技巧.md",
+    "lesson/美丽芭蕾：拉伸.md",
+    "story/23.6.20.md",
+    "picture/静物.桌面.md",
+    "lesson/美丽芭蕾：腰部.md",
+    "links/工具箱.md",
+    "模板.md",
+    "music/花鳥諷詠.md",
+    "music/笑うしかないトラジディー.md",
+    "diary/漫天阴雨，在每个人的命运中平等的落下.md",
+    "diary/不给糖就捣蛋.md",
+    "diary/睁眼睛睡觉.md",
+    "diary/今日份emo.md",
+    "diary/23.6.30.md",
+    "story",
+    "links",
+    "diary",
+    "thoughts",
+    "music/待人.md",
+    "music/Till I.md",
+    "music/Waterfalls Coming Out Your Mouth.md",
+    "music/8.32.md"
+  ]
+}

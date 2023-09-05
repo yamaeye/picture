@@ -1,0 +1,81 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "workspace:copy-path",
+      "icon": "lucide-copy",
+      "name": "复制文件路径",
+      "mode": "any"
+    },
+    {
+      "id": "note-refactor-obsidian:app:extract-selection-first-line",
+      "icon": "align-vertical-justify-center",
+      "name": "拆分到新稿",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "note-refactor-obsidian:app:split-note-by-heading-h2",
+      "icon": "alarm-clock-off",
+      "name": "拆稿 - H2 标题",
+      "mode": "any"
+    },
+    {
+      "id": "note-refactor-obsidian:app:split-note-by-heading-h3",
+      "icon": "align-center",
+      "name": "拆稿 - H3 标题",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:split-vertical",
+      "icon": "lucide-separator-vertical",
+      "name": "左右视图",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:split-horizontal",
+      "icon": "lucide-separator-horizontal",
+      "name": "上下视图",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:undo-close-pane",
+      "icon": "lucide-undo-2",
+      "name": "还原最近关闭的标签",
+      "mode": "any"
+    },
+    {
+      "id": "cmdr:open-commander-settings",
+      "icon": "asterisk",
+      "name": "Commander 设置",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "插入模板"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 2,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

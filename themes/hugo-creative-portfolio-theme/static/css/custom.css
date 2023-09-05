@@ -1,0 +1,105 @@
+/* your styles go here */
+@media (min-width:1200px)
+{.col-lg-8
+    {width:90%;}
+}
+
+
+#fastSearch {
+    visibility: hidden;
+    position: absolute;
+    display: inline-block;
+    width: 90%;
+    margin: 0 10px 0 0;
+  }
+
+  #fastSearch input {
+    padding: 4px;
+    width: 90%;
+    height: 31px;
+    color: #222129;
+    background-color: #f4f4f4;
+    border-radius: 3px 3px 0px 0px;
+    border: solid;
+    border-width: 1px;
+    outline: none;
+    text-align: left;
+    display: inline-block;
+  }
+  
+  #searchResults li {
+    list-style: none;
+    border-bottom: 1px dotted #000;
+  }
+  
+  #searchResults li .title {
+    font-size: 1.1em;
+    margin: 0;
+    display: inline-block;
+  }
+  
+  #searchResults {
+    visibility: inherit;
+    display: inline-block;
+    width: 90%;
+    padding-left: 0px;
+    max-height: calc(100vh - 120px);
+    overflow: visible;
+  }
+  
+  #searchResults a {
+    text-decoration: none !important;
+    padding: 10px;
+    display: inline-block;
+    width: 100%;
+  }
+  
+  #searchResults a:hover, #searchResults a:focus {
+    outline: 0;
+    font-weight: bold;
+  }
+  
+
+  #search-btn {
+    font-size: 16px;
+    list-style-type: none;
+    padding-left: 20px;
+  }
+  
+  #search-btn li {
+    margin-bottom: 5px;
+  }
+
+  #search-btn li a {
+    color: #555555;
+  }
+
+  #search-btn li:before {
+    font-family: 'FontAwesome';
+    content: '\f105';
+    margin: 0 5px 0 -15px;
+    color: #999999;
+  }
+
+  #search-btn li.active a {
+    color: #379392;
+    font-weight: bold;
+  }
+
+  #search-btn li.active:before {
+    color: #379392;
+  }
+  #search-btn li:hover a {
+    text-decoration: none;
+    color: #379392;
+  }
+  #search-btn li:hover:before {
+    color: #379392;
+  }
+
+
+  @media (max-width:683px) {
+    #fastSearch, #search-btn {
+      padding-left: 5px;
+    }
+  }
