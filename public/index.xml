@@ -2,246 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>幻术同盟</title>
-    <link>https://yamaeye.pages.dev/picture/public/</link>
+    <link>/</link>
     <description>Recent content on 幻术同盟</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 31 Jul 2023 16:55:51 +0800</lastBuildDate><atom:link href="https://yamaeye.pages.dev/picture/public/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jul 2023 16:55:51 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>美丽芭蕾：腿部</title>
-      <link>https://yamaeye.pages.dev/picture/public/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E8%85%BF%E9%83%A8/</link>
+      <link>/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E8%85%BF%E9%83%A8/</link>
       <pubDate>Mon, 31 Jul 2023 16:55:51 +0800</pubDate>
       
-      <guid>https://yamaeye.pages.dev/picture/public/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E8%85%BF%E9%83%A8/</guid>
+      <guid>/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E8%85%BF%E9%83%A8/</guid>
       <description> Mary Helen：美丽芭蕾
                                                                                                                        </description>
     </item>
     
     <item>
       <title>美丽芭蕾：腰部</title>
-      <link>https://yamaeye.pages.dev/picture/public/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E8%85%B0%E9%83%A8/</link>
+      <link>/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E8%85%B0%E9%83%A8/</link>
       <pubDate>Thu, 20 Jul 2023 16:30:07 +0800</pubDate>
       
-      <guid>https://yamaeye.pages.dev/picture/public/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E8%85%B0%E9%83%A8/</guid>
+      <guid>/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E8%85%B0%E9%83%A8/</guid>
       <description> Mary Helen：美丽芭蕾
                                                          </description>
     </item>
     
     <item>
       <title>花鳥諷詠</title>
-      <link>https://yamaeye.pages.dev/picture/public/music/%E8%8A%B1%E9%B3%A5%E8%AB%B7%E8%A9%A0/</link>
+      <link>/music/%E8%8A%B1%E9%B3%A5%E8%AB%B7%E8%A9%A0/</link>
       <pubDate>Wed, 19 Jul 2023 13:25:15 +0800</pubDate>
       
-      <guid>https://yamaeye.pages.dev/picture/public/music/%E8%8A%B1%E9%B3%A5%E8%AB%B7%E8%A9%A0/</guid>
-      <description>作曲 : 天月-あまつき- / 渡辺拓也
-はらりはらり
-轻飘飘地
-舞い散る運命
-飞散的命运
-名もなき日の君との誓い
-无名之日中与你的誓约
-花よ月よ
-花啊 月亮啊
-今宵だけでも
-只有今宵也好
-君の名を照らしておくれ
-请照亮你的名字
-玉響の夢のように
-像稍纵即逝的梦想一般
-幻に縋る花時雨
-如梦似幻的花季阵雨
-木漏れ日だけが僕らを許す
-只有林间隙光允许我们
-儚く愛しい瞬間
-虚无爱恋的瞬间
-黄昏に染まる道も
-染上昏黄的街道
-水際で眠る鳥も
-在水边入眠的鸟儿
-君が君を愛せるような
-希望让你爱你自己的
-世界でありますように
-世界能够到来
-ゆらりゆられ　彷徨うは風
-轻轻摇动着 彷徨如风
-我が心のなすがままに
-随心所欲
-花よ月よ　咲き誇れいま
-花啊 月亮啊 灿烂盛开 现在
-君を想ふ夢は覚めない
-不愿从思念你的梦境中醒来 浮舟が流されて
-小船随着湖水飘去
-白露に消える青時雨
-绿荫落雨消逝于露水之中
-浮世を生きるその誰しもに
-活在俗世里任何人
-命の証が鳴る
-生命的钟声响起
-陽炎に消えた蝶も
-不论是艳阳下消失的蝴蝶
-泪に沈む日々でも
-还是沉浸于泪水中的日子
-最後には笑えているような
-希望最后笑容满面的
-世界でありますように
-世界能够到来
-めぐりめぐる　季節を超えて
-兜兜转转度过好几个季节
-君へ続く糸を辿れば
-循着通往你的丝线
-花よ月よ　旅路の果てに</description>
+      <guid>/music/%E8%8A%B1%E9%B3%A5%E8%AB%B7%E8%A9%A0/</guid>
+      <description>&lt;p&gt;作曲 : &lt;a href=&#34;https://music.163.com/#/song?id=1828137797&#34;&gt;天月-あまつき- / 渡辺拓也&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>笑うしかないトラジディー</title>
-      <link>https://yamaeye.pages.dev/picture/public/music/%E7%AC%91%E3%81%86%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84%E3%83%88%E3%83%A9%E3%82%B8%E3%83%87%E3%82%A3%E3%83%BC/</link>
+      <link>/music/%E7%AC%91%E3%81%86%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84%E3%83%88%E3%83%A9%E3%82%B8%E3%83%87%E3%82%A3%E3%83%BC/</link>
       <pubDate>Tue, 18 Jul 2023 15:30:40 +0800</pubDate>
       
-      <guid>https://yamaeye.pages.dev/picture/public/music/%E7%AC%91%E3%81%86%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84%E3%83%88%E3%83%A9%E3%82%B8%E3%83%87%E3%82%A3%E3%83%BC/</guid>
+      <guid>/music/%E7%AC%91%E3%81%86%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84%E3%83%88%E3%83%A9%E3%82%B8%E3%83%87%E3%82%A3%E3%83%BC/</guid>
       <description>&lt;p&gt;作词：&lt;a href=&#34;https://music.163.com/#/song?id=1897366431&#34;&gt;小竹正人&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>23.6.20</title>
-      <link>https://yamaeye.pages.dev/picture/public/story/23.6.20/</link>
-      <pubDate>Tue, 20 Jun 2023 15:37:44 +0800</pubDate>
-      
-      <guid>https://yamaeye.pages.dev/picture/public/story/23.6.20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>不给糖就捣蛋</title>
-      <link>https://yamaeye.pages.dev/picture/public/diary/%E4%B8%8D%E7%BB%99%E7%B3%96%E5%B0%B1%E6%8D%A3%E8%9B%8B/</link>
-      <pubDate>Wed, 12 Oct 2022 16:50:41 +0800</pubDate>
-      
-      <guid>https://yamaeye.pages.dev/picture/public/diary/%E4%B8%8D%E7%BB%99%E7%B3%96%E5%B0%B1%E6%8D%A3%E8%9B%8B/</guid>
-      <description>&lt;p&gt;胖妈妈把我的糖没收了，但她不知道我从同事那儿又要来好多糖。&lt;/p&gt;
-&lt;p&gt;我邀请了五个同事来我家吃火锅，虽然最小的妹妹不爱吃火锅，但我们可以一起玩儿。&lt;/p&gt;
-&lt;p&gt;下周和好盆友去体检，不知道又会检测出什么问题。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>桌面</title>
-      <link>https://yamaeye.pages.dev/picture/public/picture/%E9%9D%99%E7%89%A9.%E6%A1%8C%E9%9D%A2/</link>
+      <link>/picture/%E9%9D%99%E7%89%A9.%E6%A1%8C%E9%9D%A2/</link>
       <pubDate>Sun, 02 Oct 2022 08:37:09 +0800</pubDate>
       
-      <guid>https://yamaeye.pages.dev/picture/public/picture/%E9%9D%99%E7%89%A9.%E6%A1%8C%E9%9D%A2/</guid>
+      <guid>/picture/%E9%9D%99%E7%89%A9.%E6%A1%8C%E9%9D%A2/</guid>
       <description>&lt;p&gt;作者：&lt;a href=&#34;https://unsplash.com/@chrisrolls&#34;&gt;Christophe Rollando&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Till I</title>
-      <link>https://yamaeye.pages.dev/picture/public/music/till-i/</link>
+      <link>/music/till-i/</link>
       <pubDate>Sat, 01 Oct 2022 14:50:22 +0800</pubDate>
       
-      <guid>https://yamaeye.pages.dev/picture/public/music/till-i/</guid>
+      <guid>/music/till-i/</guid>
       <description>&lt;p&gt;作词 : &lt;a href=&#34;https://music.163.com/#/song?id=1824708584&#34;&gt;cAnON.&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>8.32</title>
-      <link>https://yamaeye.pages.dev/picture/public/music/8.32/</link>
+      <link>/music/8.32/</link>
       <pubDate>Sat, 01 Oct 2022 14:38:19 +0800</pubDate>
       
-      <guid>https://yamaeye.pages.dev/picture/public/music/8.32/</guid>
+      <guid>/music/8.32/</guid>
       <description>&lt;p&gt;作词 : &lt;a href=&#34;https://music.163.com/#/song?id=1363303397&#34;&gt;*Luna&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>待人</title>
-      <link>https://yamaeye.pages.dev/picture/public/music/%E5%BE%85%E4%BA%BA/</link>
+      <link>/music/%E5%BE%85%E4%BA%BA/</link>
       <pubDate>Sat, 01 Oct 2022 14:31:54 +0800</pubDate>
       
-      <guid>https://yamaeye.pages.dev/picture/public/music/%E5%BE%85%E4%BA%BA/</guid>
+      <guid>/music/%E5%BE%85%E4%BA%BA/</guid>
       <description>&lt;p&gt;作词 : &lt;a href=&#34;https://music.163.com/#/song?id=1485868283&#34;&gt;上北健&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Waterfalls Coming Out Your Mouth</title>
-      <link>https://yamaeye.pages.dev/picture/public/music/waterfalls-coming-out-your-mouth/</link>
+      <link>/music/waterfalls-coming-out-your-mouth/</link>
       <pubDate>Sat, 01 Oct 2022 13:51:17 +0800</pubDate>
       
-      <guid>https://yamaeye.pages.dev/picture/public/music/waterfalls-coming-out-your-mouth/</guid>
+      <guid>/music/waterfalls-coming-out-your-mouth/</guid>
       <description>&lt;p&gt;作词 : &lt;a href=&#34;https://music.163.com/#/song?id=1500355788&#34;&gt;Dave Bayley&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>美丽芭蕾 | 拉伸</title>
-      <link>https://yamaeye.pages.dev/picture/public/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E6%8B%89%E4%BC%B8/</link>
+      <link>/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E6%8B%89%E4%BC%B8/</link>
       <pubDate>Sat, 23 Jul 2022 23:40:26 +0800</pubDate>
       
-      <guid>https://yamaeye.pages.dev/picture/public/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E6%8B%89%E4%BC%B8/</guid>
+      <guid>/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E6%8B%89%E4%BC%B8/</guid>
       <description> Mary Helen：美丽芭蕾
                                                                                                                                                                                     </description>
-    </item>
-    
-    <item>
-      <title>学习总结</title>
-      <link>https://yamaeye.pages.dev/picture/public/thoughts/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</link>
-      <pubDate>Tue, 26 Apr 2022 18:55:20 +0800</pubDate>
-      
-      <guid>https://yamaeye.pages.dev/picture/public/thoughts/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</guid>
-      <description>学习的本质就是模仿吧。
-只有老实人才会因为担心抄袭，而不敢踏出第一步。</description>
-    </item>
-    
-    <item>
-      <title>今日份emo</title>
-      <link>https://yamaeye.pages.dev/picture/public/diary/%E4%BB%8A%E6%97%A5%E4%BB%BDemo/</link>
-      <pubDate>Sun, 17 Apr 2022 19:52:27 +0800</pubDate>
-      
-      <guid>https://yamaeye.pages.dev/picture/public/diary/%E4%BB%8A%E6%97%A5%E4%BB%BDemo/</guid>
-      <description>同事会画卡通漫画，写稿水平也顶呱呱。
-我都没有专业对口的工作技能，裁员一定优先把我开除吧。
-这个世界其实不太需要我活着。</description>
-    </item>
-    
-    <item>
-      <title>漫天阴雨，在每个人的命运中平等的落下</title>
-      <link>https://yamaeye.pages.dev/picture/public/diary/%E6%BC%AB%E5%A4%A9%E9%98%B4%E9%9B%A8%E5%9C%A8%E6%AF%8F%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%91%BD%E8%BF%90%E4%B8%AD%E5%B9%B3%E7%AD%89%E7%9A%84%E8%90%BD%E4%B8%8B/</link>
-      <pubDate>Sat, 16 Apr 2022 18:49:05 +0800</pubDate>
-      
-      <guid>https://yamaeye.pages.dev/picture/public/diary/%E6%BC%AB%E5%A4%A9%E9%98%B4%E9%9B%A8%E5%9C%A8%E6%AF%8F%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%91%BD%E8%BF%90%E4%B8%AD%E5%B9%B3%E7%AD%89%E7%9A%84%E8%90%BD%E4%B8%8B/</guid>
-      <description>黑爸爸胸椎摔断了，至少严格卧床三个月。
-今年的生日是在疫情封控期过的，从小区里唯一营业的面馆买来比平时贵了几倍的手擀面，胖妈妈排队换来的蛋糕券没能派上用场。
-小区解封前一天，黑爸爸胆囊炎犯了，第二天送到医院，依然高烧不退，消炎药、退烧药又禁止售卖，只好做了微创手术。
-那几天烧得都开始说胡话了，偶尔清醒一次，声音很微弱的给我打电话唠家常，感觉和平时也没什么两样，但挂了电话，黑爸爸就泪流满面，以为自己快死了。
-救护车担架又把黑爸爸抬回家，我调侃他，身上多了个管儿、多了个袋儿。
-卧床久了，洗头困难，头发也给剃光了，我又笑话他像个土豆。
-黑爸爸瘦得厉害，脸上的肉凹进去，颧骨又凸出来，可不就像个坑坑洼洼的土豆嘛。
-三个月过去，骨头愈合进展不太顺利，还要继续卧床，医生预测至少再躺三个月。
-他是个讨人厌的小老头儿，不太会说好听的话，总是闷声不语的安排好一切，从不懂得考虑别人的意愿。</description>
-    </item>
-    
-    <item>
-      <title>我有独特的摸鱼技巧</title>
-      <link>https://yamaeye.pages.dev/picture/public/thoughts/%E6%88%91%E6%9C%89%E7%8B%AC%E7%89%B9%E7%9A%84%E6%91%B8%E9%B1%BC%E6%8A%80%E5%B7%A7/</link>
-      <pubDate>Sat, 16 Apr 2022 07:46:29 +0800</pubDate>
-      
-      <guid>https://yamaeye.pages.dev/picture/public/thoughts/%E6%88%91%E6%9C%89%E7%8B%AC%E7%89%B9%E7%9A%84%E6%91%B8%E9%B1%BC%E6%8A%80%E5%B7%A7/</guid>
-      <description>领导的决策不一定是正确的，这种情况下不必反驳，敷衍拖延就够了。
-喜欢工作的哪一部分，就把精力投入其中，当作兴趣爱好去做。
-付出很多，回报很少，就当做慈善，艰难的日子不会永远持续下去。</description>
-    </item>
-    
-    <item>
-      <title>睁眼睛睡觉</title>
-      <link>https://yamaeye.pages.dev/picture/public/diary/%E7%9D%81%E7%9C%BC%E7%9D%9B%E7%9D%A1%E8%A7%89/</link>
-      <pubDate>Sat, 29 May 2010 21:42:31 +0800</pubDate>
-      
-      <guid>https://yamaeye.pages.dev/picture/public/diary/%E7%9D%81%E7%9C%BC%E7%9D%9B%E7%9D%A1%E8%A7%89/</guid>
-      <description>最新最强的技能——睁眼睛睡觉，你行吗？
-上课睡觉不够强大、坐着睡觉不够强大、站着睡觉不够强大、移动中睡觉还是不够强大……
-怎样才算觉主？睁眼睛睡觉才证明血统纯正！
-还在为时间紧凑烦恼吗？还在为休息太少无奈吗？还在为虚度的零碎时间头痛吗？
-从今天起，开始享受睁眼睛睡觉的快乐吧！随时随地恢复精力，只需调整呼吸频率，保持头脑混沌，就可快速进入浅睡眠！
-直线上涨的Hp，高效提升的时间利用率——
-有多少时间在等待中浪费，睡吧！
-有多少机会可以趁机积蓄能量，睡吧！
-有多少无聊的演讲让人犯困，睡吧！
-比起一般的睡眠隐蔽性更高、安全性更强、实用性更大，这就是睁眼睛睡觉！
-让你一天多出比24小时更多的时间，让你比同龄人走在更前，让你掌握生活的节奏，不尝试是不行的！</description>
     </item>
     
   </channel>

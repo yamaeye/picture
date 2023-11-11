@@ -11,8 +11,12 @@
             "id": "66422429eedd8334",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "music/花鳥諷詠.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "music/花鳥諷詠.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "music/花鳥諷詠.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "music/花鳥諷詠.md"
+              }
             }
           },
           {
@@ -135,6 +143,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {}
+            }
+          },
+          {
+            "id": "b48081da83791a76",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -154,12 +172,18 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-spaced-repetition:复习卡片": false
+      "obsidian-spaced-repetition:复习卡片": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "66422429eedd8334",
   "lastOpenFiles": [
+    "music/Waterfalls Coming Out Your Mouth.md",
+    "music/Till I.md",
+    "music/笑うしかないトラジディー.md",
+    "music/花鳥諷詠.md",
+    "music/8.32.md",
+    "music/待人.md",
     "thoughts/学习总结.md",
     "thoughts/我有独特的摸鱼技巧.md",
     "lesson/美丽芭蕾：拉伸.md",
@@ -168,8 +192,6 @@
     "lesson/美丽芭蕾：腰部.md",
     "links/工具箱.md",
     "模板.md",
-    "music/花鳥諷詠.md",
-    "music/笑うしかないトラジディー.md",
     "diary/漫天阴雨，在每个人的命运中平等的落下.md",
     "diary/不给糖就捣蛋.md",
     "diary/睁眼睛睡觉.md",
@@ -178,10 +200,6 @@
     "story",
     "links",
     "diary",
-    "thoughts",
-    "music/待人.md",
-    "music/Till I.md",
-    "music/Waterfalls Coming Out Your Mouth.md",
-    "music/8.32.md"
+    "thoughts"
   ]
 }

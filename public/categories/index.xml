@@ -2,98 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 幻术同盟</title>
-    <link>https://yamaeye.pages.dev/picture/public/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on 幻术同盟</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 31 Jul 2023 16:55:51 +0800</lastBuildDate><atom:link href="https://yamaeye.pages.dev/picture/public/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 31 Jul 2023 16:55:51 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>美丽芭蕾</title>
-      <link>https://yamaeye.pages.dev/picture/public/categories/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE/</link>
+      <link>/categories/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE/</link>
       <pubDate>Mon, 31 Jul 2023 16:55:51 +0800</pubDate>
       
-      <guid>https://yamaeye.pages.dev/picture/public/categories/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE/</guid>
+      <guid>/categories/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE/</guid>
       <description></description>
     </item>
     
     <item>
       <title>日语</title>
-      <link>https://yamaeye.pages.dev/picture/public/categories/%E6%97%A5%E8%AF%AD/</link>
+      <link>/categories/%E6%97%A5%E8%AF%AD/</link>
       <pubDate>Wed, 19 Jul 2023 13:25:15 +0800</pubDate>
       
-      <guid>https://yamaeye.pages.dev/picture/public/categories/%E6%97%A5%E8%AF%AD/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>文字游戏</title>
-      <link>https://yamaeye.pages.dev/picture/public/categories/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F/</link>
-      <pubDate>Tue, 20 Jun 2023 15:37:44 +0800</pubDate>
-      
-      <guid>https://yamaeye.pages.dev/picture/public/categories/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>流水账</title>
-      <link>https://yamaeye.pages.dev/picture/public/categories/%E6%B5%81%E6%B0%B4%E8%B4%A6/</link>
-      <pubDate>Wed, 12 Oct 2022 16:50:41 +0800</pubDate>
-      
-      <guid>https://yamaeye.pages.dev/picture/public/categories/%E6%B5%81%E6%B0%B4%E8%B4%A6/</guid>
+      <guid>/categories/%E6%97%A5%E8%AF%AD/</guid>
       <description></description>
     </item>
     
     <item>
       <title>静物</title>
-      <link>https://yamaeye.pages.dev/picture/public/categories/%E9%9D%99%E7%89%A9/</link>
+      <link>/categories/%E9%9D%99%E7%89%A9/</link>
       <pubDate>Sun, 02 Oct 2022 08:37:09 +0800</pubDate>
       
-      <guid>https://yamaeye.pages.dev/picture/public/categories/%E9%9D%99%E7%89%A9/</guid>
+      <guid>/categories/%E9%9D%99%E7%89%A9/</guid>
       <description></description>
     </item>
     
     <item>
       <title>英语</title>
-      <link>https://yamaeye.pages.dev/picture/public/categories/%E8%8B%B1%E8%AF%AD/</link>
+      <link>/categories/%E8%8B%B1%E8%AF%AD/</link>
       <pubDate>Sat, 01 Oct 2022 13:51:17 +0800</pubDate>
       
-      <guid>https://yamaeye.pages.dev/picture/public/categories/%E8%8B%B1%E8%AF%AD/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>学习</title>
-      <link>https://yamaeye.pages.dev/picture/public/categories/%E5%AD%A6%E4%B9%A0/</link>
-      <pubDate>Tue, 26 Apr 2022 18:55:20 +0800</pubDate>
-      
-      <guid>https://yamaeye.pages.dev/picture/public/categories/%E5%AD%A6%E4%B9%A0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>工作</title>
-      <link>https://yamaeye.pages.dev/picture/public/categories/%E5%B7%A5%E4%BD%9C/</link>
-      <pubDate>Sun, 17 Apr 2022 19:52:27 +0800</pubDate>
-      
-      <guid>https://yamaeye.pages.dev/picture/public/categories/%E5%B7%A5%E4%BD%9C/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>回家</title>
-      <link>https://yamaeye.pages.dev/picture/public/categories/%E5%9B%9E%E5%AE%B6/</link>
-      <pubDate>Sat, 16 Apr 2022 18:49:05 +0800</pubDate>
-      
-      <guid>https://yamaeye.pages.dev/picture/public/categories/%E5%9B%9E%E5%AE%B6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>时光机</title>
-      <link>https://yamaeye.pages.dev/picture/public/categories/%E6%97%B6%E5%85%89%E6%9C%BA/</link>
-      <pubDate>Sat, 29 May 2010 21:42:31 +0800</pubDate>
-      
-      <guid>https://yamaeye.pages.dev/picture/public/categories/%E6%97%B6%E5%85%89%E6%9C%BA/</guid>
+      <guid>/categories/%E8%8B%B1%E8%AF%AD/</guid>
       <description></description>
     </item>
     

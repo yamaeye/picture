@@ -2,136 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://yamaeye.pages.dev/picture/public/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2023-07-31T16:55:51+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/lesson/</loc>
+    <loc>/lesson/</loc>
     <lastmod>2023-07-31T16:55:51+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2023-07-31T16:55:51+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/</loc>
+    <loc>/</loc>
     <lastmod>2023-07-31T16:55:51+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/categories/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE/</loc>
+    <loc>/categories/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE/</loc>
     <lastmod>2023-07-31T16:55:51+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E8%85%BF%E9%83%A8/</loc>
+    <loc>/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E8%85%BF%E9%83%A8/</loc>
     <lastmod>2023-07-31T16:55:51+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/tags/%E8%85%BF%E9%83%A8/</loc>
+    <loc>/tags/%E8%85%BF%E9%83%A8/</loc>
     <lastmod>2023-07-31T16:55:51+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E8%85%B0%E9%83%A8/</loc>
+    <loc>/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E8%85%B0%E9%83%A8/</loc>
     <lastmod>2023-07-20T16:30:07+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/tags/%E8%85%B0%E9%83%A8/</loc>
+    <loc>/tags/%E8%85%B0%E9%83%A8/</loc>
     <lastmod>2023-07-20T16:30:07+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/music/</loc>
+    <loc>/music/</loc>
     <lastmod>2023-07-19T13:25:15+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/tags/%E4%BF%A1%E7%AE%B1/</loc>
+    <loc>/tags/%E4%BF%A1%E7%AE%B1/</loc>
     <lastmod>2023-07-19T13:25:15+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/categories/%E6%97%A5%E8%AF%AD/</loc>
+    <loc>/categories/%E6%97%A5%E8%AF%AD/</loc>
     <lastmod>2023-07-19T13:25:15+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/music/%E8%8A%B1%E9%B3%A5%E8%AB%B7%E8%A9%A0/</loc>
+    <loc>/music/%E8%8A%B1%E9%B3%A5%E8%AB%B7%E8%A9%A0/</loc>
     <lastmod>2023-07-19T13:25:15+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/music/%E7%AC%91%E3%81%86%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84%E3%83%88%E3%83%A9%E3%82%B8%E3%83%87%E3%82%A3%E3%83%BC/</loc>
+    <loc>/music/%E7%AC%91%E3%81%86%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84%E3%83%88%E3%83%A9%E3%82%B8%E3%83%87%E3%82%A3%E3%83%BC/</loc>
     <lastmod>2023-07-18T15:30:40+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/story/23.6.20/</loc>
-    <lastmod>2023-06-20T15:37:44+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/story/</loc>
-    <lastmod>2023-06-20T15:37:44+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/tags/%E5%A4%A7%E7%BA%B2/</loc>
-    <lastmod>2023-06-20T15:37:44+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/categories/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F/</loc>
-    <lastmod>2023-06-20T15:37:44+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/diary/</loc>
-    <lastmod>2022-10-12T16:50:41+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/diary/%E4%B8%8D%E7%BB%99%E7%B3%96%E5%B0%B1%E6%8D%A3%E8%9B%8B/</loc>
-    <lastmod>2022-10-12T16:50:41+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/categories/%E6%B5%81%E6%B0%B4%E8%B4%A6/</loc>
-    <lastmod>2022-10-12T16:50:41+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/picture/</loc>
+    <loc>/picture/</loc>
     <lastmod>2022-10-02T08:37:09+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/tags/%E6%A1%8C%E9%9D%A2/</loc>
+    <loc>/tags/%E6%A1%8C%E9%9D%A2/</loc>
     <lastmod>2022-10-02T08:37:09+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/picture/%E9%9D%99%E7%89%A9.%E6%A1%8C%E9%9D%A2/</loc>
+    <loc>/picture/%E9%9D%99%E7%89%A9.%E6%A1%8C%E9%9D%A2/</loc>
     <lastmod>2022-10-02T08:37:09+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/categories/%E9%9D%99%E7%89%A9/</loc>
+    <loc>/categories/%E9%9D%99%E7%89%A9/</loc>
     <lastmod>2022-10-02T08:37:09+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/music/till-i/</loc>
+    <loc>/music/till-i/</loc>
     <lastmod>2022-10-01T14:50:22+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/music/8.32/</loc>
+    <loc>/music/8.32/</loc>
     <lastmod>2022-10-01T14:38:19+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/music/%E5%BE%85%E4%BA%BA/</loc>
+    <loc>/music/%E5%BE%85%E4%BA%BA/</loc>
     <lastmod>2022-10-01T14:31:54+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/music/waterfalls-coming-out-your-mouth/</loc>
+    <loc>/music/waterfalls-coming-out-your-mouth/</loc>
     <lastmod>2022-10-01T13:51:17+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/categories/%E8%8B%B1%E8%AF%AD/</loc>
+    <loc>/categories/%E8%8B%B1%E8%AF%AD/</loc>
     <lastmod>2022-10-01T13:51:17+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/tags/%E6%8B%89%E4%BC%B8/</loc>
+    <loc>/tags/%E6%8B%89%E4%BC%B8/</loc>
     <lastmod>2022-07-23T23:40:26+08:00</lastmod>
   </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E6%8B%89%E4%BC%B8/</loc>
+    <loc>/lesson/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE%E6%8B%89%E4%BC%B8/</loc>
     <lastmod>2022-07-23T23:40:26+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/thoughts/</loc>
-    <lastmod>2022-04-26T18:55:20+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/categories/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2022-04-26T18:55:20+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/thoughts/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2022-04-26T18:55:20+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/tags/%E4%B8%A7/</loc>
-    <lastmod>2022-04-17T19:52:27+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/diary/%E4%BB%8A%E6%97%A5%E4%BB%BDemo/</loc>
-    <lastmod>2022-04-17T19:52:27+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/categories/%E5%B7%A5%E4%BD%9C/</loc>
-    <lastmod>2022-04-17T19:52:27+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/categories/%E5%9B%9E%E5%AE%B6/</loc>
-    <lastmod>2022-04-16T18:49:05+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/diary/%E6%BC%AB%E5%A4%A9%E9%98%B4%E9%9B%A8%E5%9C%A8%E6%AF%8F%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%91%BD%E8%BF%90%E4%B8%AD%E5%B9%B3%E7%AD%89%E7%9A%84%E8%90%BD%E4%B8%8B/</loc>
-    <lastmod>2022-04-16T18:49:05+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/tags/%E9%BB%91%E7%88%B8%E7%88%B8/</loc>
-    <lastmod>2022-04-16T18:49:05+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/thoughts/%E6%88%91%E6%9C%89%E7%8B%AC%E7%89%B9%E7%9A%84%E6%91%B8%E9%B1%BC%E6%8A%80%E5%B7%A7/</loc>
-    <lastmod>2022-04-16T07:46:29+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/categories/%E6%97%B6%E5%85%89%E6%9C%BA/</loc>
-    <lastmod>2010-05-29T21:42:31+08:00</lastmod>
-  </url><url>
-    <loc>https://yamaeye.pages.dev/picture/public/diary/%E7%9D%81%E7%9C%BC%E7%9D%9B%E7%9D%A1%E8%A7%89/</loc>
-    <lastmod>2010-05-29T21:42:31+08:00</lastmod>
   </url>
 </urlset>
