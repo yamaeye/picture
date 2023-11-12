@@ -1,4 +1,4 @@
-baseurl = "https://sophie-eden.pages.dev/"
+baseurl = "/"
 title = "幻术同盟"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "zh-cn"
@@ -71,7 +71,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Wiki"
-  url = "https://sophie-eden.netlify.app/#/"
+  url = "https://yamaeye.github.io/docs/#/"
 
   [[params.navlinks]]
   name = "时空回廊"
