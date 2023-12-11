@@ -45,17 +45,17 @@ googleAnalytics = ""
 
   # Nav links in the side bar
   [[params.navlinks]]
+  name = "歌词"
+  url = "music/"
+  home = true
+
+  [[params.navlinks]]
   name = "教程"
   url = "lesson/"
-  home = true
 
   [[params.navlinks]]
   name = "图鉴"
   url = "picture/"
-
-  [[params.navlinks]]
-  name = "歌词"
-  url = "music/"
 
   [[params.navlinks]]
   url = "/categories"
