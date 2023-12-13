@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music/Is It Love.md",
+                "file": "music/蝴蝶夫人.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music/Is It Love.md",
+                "file": "music/蝴蝶夫人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music/Is It Love.md",
+                "file": "music/蝴蝶夫人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music/Is It Love.md"
+                "file": "music/蝴蝶夫人.md"
               }
             }
           },
@@ -178,13 +178,14 @@
   },
   "active": "66422429eedd8334",
   "lastOpenFiles": [
-    "music/笑うしかないトラジディー.md",
     "music/Is It Love.md",
-    "music/Till I.md",
-    "music/Waterfalls Coming Out Your Mouth.md",
-    "music/8.32.md",
-    "music/待人.md",
+    "music/蝴蝶夫人.md",
     "music/花鳥諷詠.md",
+    "music/笑うしかないトラジディー.md",
+    "music/8.32.md",
+    "music/Till I.md",
+    "music/待人.md",
+    "music/Waterfalls Coming Out Your Mouth.md",
     "lesson/美丽芭蕾：腿部.md.1.crswap",
     "lesson/美丽芭蕾：腿部.md.crswap",
     "thoughts/学习总结.md",

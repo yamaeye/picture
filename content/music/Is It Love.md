@@ -34,7 +34,7 @@ Or will you hide?
 Tell me where in your heart am I now?  
 告诉我 我现在在你心里的位置  
 Tell me what do you feel in the night?  
-告诉我 你在夜里有着怎样的感受
+告诉我 你在夜里有着怎样的感受  
 Tell me how do you sleep when I'm not by your side?  
 告诉我 当我不在你身边时你怎样入睡
 

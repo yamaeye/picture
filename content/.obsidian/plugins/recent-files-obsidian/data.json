@@ -1,32 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "蝴蝶夫人",
+      "path": "music/蝴蝶夫人.md"
+    },
+    {
       "basename": "Is It Love",
       "path": "music/Is It Love.md"
+    },
+    {
+      "basename": "花鳥諷詠",
+      "path": "music/花鳥諷詠.md"
     },
     {
       "basename": "笑うしかないトラジディー",
       "path": "music/笑うしかないトラジディー.md"
     },
     {
-      "basename": "Till I",
-      "path": "music/Till I.md"
-    },
-    {
-      "basename": "Waterfalls Coming Out Your Mouth",
-      "path": "music/Waterfalls Coming Out Your Mouth.md"
-    },
-    {
       "basename": "8.32",
       "path": "music/8.32.md"
+    },
+    {
+      "basename": "Till I",
+      "path": "music/Till I.md"
     },
     {
       "basename": "待人",
       "path": "music/待人.md"
     },
     {
-      "basename": "花鳥諷詠",
-      "path": "music/花鳥諷詠.md"
+      "basename": "Waterfalls Coming Out Your Mouth",
+      "path": "music/Waterfalls Coming Out Your Mouth.md"
     },
     {
       "basename": "美丽芭蕾：拉伸",
@@ -195,10 +199,6 @@
     {
       "basename": "蓝爸爸",
       "path": "问答/哥哥/红毛/蓝爸爸.md"
-    },
-    {
-      "basename": "2022-12-16",
-      "path": "信箱/哥哥/2022-12-16.md"
     }
   ],
   "omittedPaths": [],
