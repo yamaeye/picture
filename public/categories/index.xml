@@ -6,7 +6,16 @@
     <description>Recent content in Categories on 幻术同盟</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 31 Jul 2023 16:55:51 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Dec 2023 17:42:27 +0800</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>英语</title>
+      <link>/categories/%E8%8B%B1%E8%AF%AD/</link>
+      <pubDate>Wed, 13 Dec 2023 17:42:27 +0800</pubDate>
+      
+      <guid>/categories/%E8%8B%B1%E8%AF%AD/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>美丽芭蕾</title>
       <link>/categories/%E7%BE%8E%E4%B8%BD%E8%8A%AD%E8%95%BE/</link>
@@ -31,15 +40,6 @@
       <pubDate>Sun, 02 Oct 2022 08:37:09 +0800</pubDate>
       
       <guid>/categories/%E9%9D%99%E7%89%A9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>英语</title>
-      <link>/categories/%E8%8B%B1%E8%AF%AD/</link>
-      <pubDate>Sat, 01 Oct 2022 13:51:17 +0800</pubDate>
-      
-      <guid>/categories/%E8%8B%B1%E8%AF%AD/</guid>
       <description></description>
     </item>
     
