@@ -75,7 +75,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "时空回廊"
-  url = "https://yamaeye.pages.dev/newspaper/public/"
+  url = "http://times.sophie-eden.ltd/"
 
   #  [[params.navlinks]]
   #  name = "About"

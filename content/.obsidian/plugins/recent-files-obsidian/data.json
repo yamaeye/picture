@@ -5,24 +5,16 @@
       "path": "music/蝴蝶夫人.md"
     },
     {
-      "basename": "Is It Love",
-      "path": "music/Is It Love.md"
-    },
-    {
       "basename": "花鳥諷詠",
       "path": "music/花鳥諷詠.md"
     },
     {
+      "basename": "静物.桌面",
+      "path": "picture/静物.桌面.md"
+    },
+    {
       "basename": "笑うしかないトラジディー",
       "path": "music/笑うしかないトラジディー.md"
-    },
-    {
-      "basename": "8.32",
-      "path": "music/8.32.md"
-    },
-    {
-      "basename": "Till I",
-      "path": "music/Till I.md"
     },
     {
       "basename": "待人",
@@ -33,16 +25,28 @@
       "path": "music/Waterfalls Coming Out Your Mouth.md"
     },
     {
-      "basename": "美丽芭蕾：拉伸",
-      "path": "lesson/美丽芭蕾：拉伸.md"
+      "basename": "Till I",
+      "path": "music/Till I.md"
     },
     {
-      "basename": "静物.桌面",
-      "path": "picture/静物.桌面.md"
+      "basename": "Is It Love",
+      "path": "music/Is It Love.md"
+    },
+    {
+      "basename": "美丽芭蕾：腿部",
+      "path": "lesson/美丽芭蕾：腿部.md"
     },
     {
       "basename": "美丽芭蕾：腰部",
       "path": "lesson/美丽芭蕾：腰部.md"
+    },
+    {
+      "basename": "美丽芭蕾：拉伸",
+      "path": "lesson/美丽芭蕾：拉伸.md"
+    },
+    {
+      "basename": "8.32",
+      "path": "music/8.32.md"
     },
     {
       "basename": "模板",
@@ -195,10 +199,6 @@
     {
       "basename": "神之子",
       "path": "问答/哥哥/红毛/神之子.md"
-    },
-    {
-      "basename": "蓝爸爸",
-      "path": "问答/哥哥/红毛/蓝爸爸.md"
     }
   ],
   "omittedPaths": [],
