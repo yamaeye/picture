@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music/光役.md",
+                "file": "music/沉香.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music/光役.md",
+                "file": "music/沉香.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music/光役.md",
+                "file": "music/沉香.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music/光役.md"
+                "file": "music/沉香.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "66422429eedd8334",
   "lastOpenFiles": [
-    "music/沉香.md",
     "music/光役.md",
+    "music/沉香.md",
     "music/笑うしかないトラジディー.md",
     "music/Waterfalls Coming Out Your Mouth.md",
     "music/8.32.md",
