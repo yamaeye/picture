@@ -1,0 +1,6 @@
+{{ range .Paginator.Pages }}
+{{ .Title }}
+{{ end }}
+{{ define "main" }}
+  {{ partial "portfolio.html" . }}
+{{ end }}

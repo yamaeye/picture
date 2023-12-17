@@ -13,9 +13,9 @@ min_version = 0.20
 
 [author]
   name = "Sophie Eden"
-  homepage = "https://sophie-eden.netlify.app/#/"
+  homepage = "https://yamaeye.github.io/docs/#/"
 
 # If porting an existing theme
 [original]
   name = "时空回廊"
-  homepage = "https://yamaeye.pages.dev/"
+  homepage = "http://sophie-eden.ltd/"

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "星辰守候",
+      "path": "music/星辰守候.md"
+    },
+    {
+      "basename": "沉香",
+      "path": "music/沉香.md"
+    },
+    {
+      "basename": "光役",
+      "path": "music/光役.md"
+    },
+    {
       "basename": "美丽芭蕾：拉伸",
       "path": "lesson/美丽芭蕾：拉伸.md"
     },
@@ -15,14 +27,6 @@
     {
       "basename": "蝴蝶夫人",
       "path": "music/蝴蝶夫人.md"
-    },
-    {
-      "basename": "光役",
-      "path": "music/光役.md"
-    },
-    {
-      "basename": "沉香",
-      "path": "music/沉香.md"
     },
     {
       "basename": "模板",
@@ -195,10 +199,6 @@
     {
       "basename": "x",
       "path": "问答/哥哥/临时访问/x.md"
-    },
-    {
-      "basename": "疯子",
-      "path": "问答/哥哥/临时访问/疯子.md"
     }
   ],
   "omittedPaths": [],
