@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music/星辰守候.md",
+                "file": "music/Waterfalls Coming Out Your Mouth.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "auto=1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music/星辰守候.md",
+                "file": "music/Waterfalls Coming Out Your Mouth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music/星辰守候.md",
+                "file": "music/Waterfalls Coming Out Your Mouth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music/星辰守候.md"
+                "file": "music/Waterfalls Coming Out Your Mouth.md"
               }
             }
           },
@@ -178,21 +179,21 @@
   },
   "active": "66422429eedd8334",
   "lastOpenFiles": [
-    "music/沉香.md",
+    "music/Is It Love.md",
     "music/星辰守候.md",
+    "music/笑うしかないトラジディー.md",
+    "music/花鳥諷詠.md",
+    "music/蝴蝶夫人.md",
     "music/光役.md",
+    "music/待人.md",
+    "music/沉香.md",
+    "music/8.32.md",
+    "music/Till I.md",
     "lesson/美丽芭蕾：拉伸.md",
     "lesson/美丽芭蕾：腰部.md",
     "lesson/美丽芭蕾：腿部.md",
-    "music/蝴蝶夫人.md",
     "模板.md",
-    "music/笑うしかないトラジディー.md",
     "music/Waterfalls Coming Out Your Mouth.md",
-    "music/8.32.md",
-    "music/Till I.md",
-    "music/待人.md",
-    "music/花鳥諷詠.md",
-    "music/Is It Love.md",
     "picture/静物.桌面.md",
     "lesson/美丽芭蕾：腿部.md.1.crswap",
     "lesson/美丽芭蕾：腿部.md.crswap",
