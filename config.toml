@@ -68,7 +68,7 @@ googleAnalytics = ""
   name = "标签"
 
   [[params.navlinks]]
-  url = "/index.xml"
+  url = "index.xml"
   name = "RSS"
 
   [[params.navlinks]]
