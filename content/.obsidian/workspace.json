@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music/Waterfalls Coming Out Your Mouth.md",
+                "file": "music/蝴蝶夫人.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music/Waterfalls Coming Out Your Mouth.md",
+                "file": "music/蝴蝶夫人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music/Waterfalls Coming Out Your Mouth.md",
+                "file": "music/蝴蝶夫人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music/Waterfalls Coming Out Your Mouth.md"
+                "file": "music/蝴蝶夫人.md"
               }
             }
           },
@@ -152,7 +151,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -173,27 +174,28 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:复习卡片": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-spaced-repetition:复习卡片": false
     }
   },
   "active": "66422429eedd8334",
   "lastOpenFiles": [
     "music/Is It Love.md",
-    "music/星辰守候.md",
-    "music/笑うしかないトラジディー.md",
     "music/花鳥諷詠.md",
+    "music/Turn Around.md",
+    "music/星辰守候.md",
+    "music/Waterfalls Coming Out Your Mouth.md",
+    "music/Till I.md",
     "music/蝴蝶夫人.md",
     "music/光役.md",
-    "music/待人.md",
     "music/沉香.md",
+    "music/笑うしかないトラジディー.md",
+    "music/待人.md",
     "music/8.32.md",
-    "music/Till I.md",
     "lesson/美丽芭蕾：拉伸.md",
     "lesson/美丽芭蕾：腰部.md",
     "lesson/美丽芭蕾：腿部.md",
     "模板.md",
-    "music/Waterfalls Coming Out Your Mouth.md",
     "picture/静物.桌面.md",
     "lesson/美丽芭蕾：腿部.md.1.crswap",
     "lesson/美丽芭蕾：腿部.md.crswap",
