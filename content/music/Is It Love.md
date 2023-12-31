@@ -13,7 +13,7 @@ tags: []
 
 <!--more-->
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2090559323&auto=0&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2090559323&auto=1&height=66"></iframe>
 
 You'll find me in the echo of the dark  
 你会在黑暗的回响中找到我  

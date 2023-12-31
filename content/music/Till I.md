@@ -11,7 +11,6 @@ tags: [信箱]
 
 作词 : [cAnON.](https://music.163.com/#/song?id=1824708584)
 <!--more-->
-
 不確かな記憶が心の隅突くから  
 不确切的记忆刺痛了心底的角落  
 I want to know if truth is painful or not  
