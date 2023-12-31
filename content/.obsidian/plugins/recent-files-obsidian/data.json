@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "山止川行",
+      "path": "music/山止川行.md"
+    },
+    {
       "basename": "唯一的星光",
       "path": "music/唯一的星光.md"
     },
     {
       "basename": "星辰守候",
       "path": "music/星辰守候.md"
+    },
+    {
+      "basename": "沉香",
+      "path": "music/沉香.md"
+    },
+    {
+      "basename": "劫",
+      "path": "music/劫.md"
+    },
+    {
+      "basename": "Turn Around",
+      "path": "music/Turn Around.md"
     },
     {
       "basename": "Is It Love",
@@ -27,18 +43,6 @@
     {
       "basename": "光役",
       "path": "music/光役.md"
-    },
-    {
-      "basename": "劫",
-      "path": "music/劫.md"
-    },
-    {
-      "basename": "Turn Around",
-      "path": "music/Turn Around.md"
-    },
-    {
-      "basename": "沉香",
-      "path": "music/沉香.md"
     },
     {
       "basename": "Waterfalls Coming Out Your Mouth",
@@ -195,10 +199,6 @@
     {
       "basename": "身份背景",
       "path": "文字游戏/角色/主角/身份背景.md"
-    },
-    {
-      "basename": "技能",
-      "path": "文字游戏/能力/才艺/技能.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music/唯一的星光.md",
+                "file": "music/山止川行.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music/唯一的星光.md",
+                "file": "music/山止川行.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music/唯一的星光.md",
+                "file": "music/山止川行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music/唯一的星光.md"
+                "file": "music/山止川行.md"
               }
             }
           },
@@ -180,16 +180,17 @@
   },
   "active": "66422429eedd8334",
   "lastOpenFiles": [
+    "music/唯一的星光.md",
+    "music/山止川行.md",
     "music/星辰守候.md",
+    "music/沉香.md",
+    "music/劫.md",
+    "music/Turn Around.md",
     "music/Is It Love.md",
     "music/笑うしかないトラジディー.md",
     "music/蝴蝶夫人.md",
     "music/待人.md",
     "music/光役.md",
-    "music/劫.md",
-    "music/唯一的星光.md",
-    "music/Turn Around.md",
-    "music/沉香.md",
     "music/Waterfalls Coming Out Your Mouth.md",
     "music/8.32.md",
     "music/Till I.md",
@@ -207,7 +208,6 @@
     "links/工具箱.md",
     "diary/漫天阴雨，在每个人的命运中平等的落下.md",
     "diary/不给糖就捣蛋.md",
-    "diary/睁眼睛睡觉.md",
     "story",
     "links",
     "diary",
