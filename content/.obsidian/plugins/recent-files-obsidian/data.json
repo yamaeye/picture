@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "年年有风",
+      "path": "music/年年有风.md"
+    },
+    {
+      "basename": "Is It Love",
+      "path": "music/Is It Love.md"
+    },
+    {
       "basename": "山止川行",
       "path": "music/山止川行.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Turn Around",
       "path": "music/Turn Around.md"
-    },
-    {
-      "basename": "Is It Love",
-      "path": "music/Is It Love.md"
     },
     {
       "basename": "笑うしかないトラジディー",
@@ -195,10 +199,6 @@
     {
       "basename": "个性",
       "path": "文字游戏/角色/主角/个性.md"
-    },
-    {
-      "basename": "身份背景",
-      "path": "文字游戏/角色/主角/身份背景.md"
     }
   ],
   "omittedPaths": [],
