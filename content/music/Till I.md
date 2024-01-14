@@ -58,3 +58,9 @@ Till I die
 
 By your side  
 都在你身边  
+
+---
+
+@[star-drift0224](https://music.163.com/user/home?id=350501982)：
+
+尽管我们被地狱的沟壑分开，只要你仍需要我，我就会永远不变地在你身边
