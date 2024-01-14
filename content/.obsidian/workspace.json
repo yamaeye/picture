@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music/年年有风.md",
+                "file": "music/優しい詩.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music/年年有风.md",
+                "file": "music/優しい詩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music/年年有风.md",
+                "file": "music/優しい詩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music/年年有风.md"
+                "file": "music/優しい詩.md"
               }
             }
           },
@@ -180,22 +180,23 @@
   },
   "active": "66422429eedd8334",
   "lastOpenFiles": [
-    "music/Is It Love.md",
     "music/年年有风.md",
+    "music/優しい詩.md",
+    "music/笑うしかないトラジディー.md",
     "music/山止川行.md",
     "music/唯一的星光.md",
-    "music/星辰守候.md",
-    "music/沉香.md",
     "music/劫.md",
     "music/Turn Around.md",
-    "music/笑うしかないトラジディー.md",
-    "music/蝴蝶夫人.md",
-    "music/待人.md",
+    "music/星辰守候.md",
+    "music/沉香.md",
     "music/光役.md",
-    "music/Waterfalls Coming Out Your Mouth.md",
-    "music/8.32.md",
-    "music/Till I.md",
+    "music/蝴蝶夫人.md",
+    "music/Is It Love.md",
     "music/花鳥諷詠.md",
+    "music/待人.md",
+    "music/Till I.md",
+    "music/8.32.md",
+    "music/Waterfalls Coming Out Your Mouth.md",
     "lesson/美丽芭蕾：拉伸.md",
     "lesson/美丽芭蕾：腰部.md",
     "lesson/美丽芭蕾：腿部.md",
@@ -207,7 +208,6 @@
     "thoughts/我有独特的摸鱼技巧.md",
     "story/23.6.20.md",
     "links/工具箱.md",
-    "diary/漫天阴雨，在每个人的命运中平等的落下.md",
     "story",
     "links",
     "diary",

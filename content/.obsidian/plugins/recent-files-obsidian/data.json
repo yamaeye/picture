@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "優しい詩",
+      "path": "music/優しい詩.md"
+    },
+    {
       "basename": "年年有风",
       "path": "music/年年有风.md"
     },
     {
-      "basename": "Is It Love",
-      "path": "music/Is It Love.md"
+      "basename": "笑うしかないトラジディー",
+      "path": "music/笑うしかないトラジディー.md"
     },
     {
       "basename": "山止川行",
@@ -17,14 +21,6 @@
       "path": "music/唯一的星光.md"
     },
     {
-      "basename": "星辰守候",
-      "path": "music/星辰守候.md"
-    },
-    {
-      "basename": "沉香",
-      "path": "music/沉香.md"
-    },
-    {
       "basename": "劫",
       "path": "music/劫.md"
     },
@@ -33,36 +29,44 @@
       "path": "music/Turn Around.md"
     },
     {
-      "basename": "笑うしかないトラジディー",
-      "path": "music/笑うしかないトラジディー.md"
+      "basename": "星辰守候",
+      "path": "music/星辰守候.md"
     },
     {
-      "basename": "蝴蝶夫人",
-      "path": "music/蝴蝶夫人.md"
-    },
-    {
-      "basename": "待人",
-      "path": "music/待人.md"
+      "basename": "沉香",
+      "path": "music/沉香.md"
     },
     {
       "basename": "光役",
       "path": "music/光役.md"
     },
     {
-      "basename": "Waterfalls Coming Out Your Mouth",
-      "path": "music/Waterfalls Coming Out Your Mouth.md"
+      "basename": "蝴蝶夫人",
+      "path": "music/蝴蝶夫人.md"
     },
     {
-      "basename": "8.32",
-      "path": "music/8.32.md"
+      "basename": "Is It Love",
+      "path": "music/Is It Love.md"
+    },
+    {
+      "basename": "花鳥諷詠",
+      "path": "music/花鳥諷詠.md"
+    },
+    {
+      "basename": "待人",
+      "path": "music/待人.md"
     },
     {
       "basename": "Till I",
       "path": "music/Till I.md"
     },
     {
-      "basename": "花鳥諷詠",
-      "path": "music/花鳥諷詠.md"
+      "basename": "8.32",
+      "path": "music/8.32.md"
+    },
+    {
+      "basename": "Waterfalls Coming Out Your Mouth",
+      "path": "music/Waterfalls Coming Out Your Mouth.md"
     },
     {
       "basename": "美丽芭蕾：拉伸",
@@ -195,10 +199,6 @@
     {
       "basename": "特征",
       "path": "文字游戏/角色/主角/特征.md"
-    },
-    {
-      "basename": "个性",
-      "path": "文字游戏/角色/主角/个性.md"
     }
   ],
   "omittedPaths": [],
