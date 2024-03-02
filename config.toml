@@ -73,7 +73,7 @@ googleAnalytics = ""
 
   [[params.navlinks]]
   name = "Wiki"
-  url = "https://yamaeye.github.io/docs/#/"
+  url = "http://wiki.sophie-eden.ltd/"
 
   [[params.navlinks]]
   name = "时空回廊"
