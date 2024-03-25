@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "music/Apple Pie ABC.md",
+                "file": "lesson/美丽芭蕾：拉伸.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7e78417db4179eab",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "music/Apple Pie ABC.md",
+                "file": "lesson/美丽芭蕾：拉伸.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "music/Apple Pie ABC.md",
+                "file": "lesson/美丽芭蕾：拉伸.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "music/Apple Pie ABC.md"
+                "file": "lesson/美丽芭蕾：拉伸.md"
               }
             }
           },
@@ -180,6 +181,8 @@
   },
   "active": "b373fb27072f70f1",
   "lastOpenFiles": [
+    "Pasted image 20240325222743.png",
+    "模板.md",
     "music/Tom Thumb's Alphabet.md",
     "music/Apple Pie ABC.md",
     "music/空生.md",
@@ -204,8 +207,6 @@
     "picture/静物.桌面.md",
     "lesson/美丽芭蕾：拉伸.md",
     "lesson/美丽芭蕾：腰部.md",
-    "lesson/美丽芭蕾：腿部.md",
-    "模板.md",
     "lesson/美丽芭蕾：腿部.md.1.crswap",
     "lesson/美丽芭蕾：腿部.md.crswap",
     "story",
