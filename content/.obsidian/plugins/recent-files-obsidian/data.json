@@ -5,12 +5,16 @@
       "path": "lesson/美丽芭蕾：拉伸.md"
     },
     {
-      "basename": "模板",
-      "path": "模板.md"
-    },
-    {
       "basename": "Tom Thumb's Alphabet",
       "path": "music/Tom Thumb's Alphabet.md"
+    },
+    {
+      "basename": "美丽芭蕾：腰部",
+      "path": "lesson/美丽芭蕾：腰部.md"
+    },
+    {
+      "basename": "模板",
+      "path": "模板.md"
     },
     {
       "basename": "Apple Pie ABC",
@@ -91,10 +95,6 @@
     {
       "basename": "静物.桌面",
       "path": "picture/静物.桌面.md"
-    },
-    {
-      "basename": "美丽芭蕾：腰部",
-      "path": "lesson/美丽芭蕾：腰部.md"
     },
     {
       "basename": "美丽芭蕾：腿部",
