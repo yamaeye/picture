@@ -1,0 +1,38 @@
+{
+  "main": [
+    {
+      "name": "首页",
+      "url": "/"
+    },
+    {
+      "name": "歌词",
+      "url": "/categories/歌词"
+    },
+    {
+      "name": "教程",
+      "url": "/categories/教程"
+    },
+    {
+      "name": "人物",
+      "url": "/authors"
+    },
+    {
+      "name": "归档",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "专辑",
+          "url": "/categories"
+        },
+        {
+          "name": "标签",
+          "url": "/tags"
+        }
+      ]
+    }
+  ],
+  "footer": [
+
+  ]
+}

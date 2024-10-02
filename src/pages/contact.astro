@@ -1,0 +1,81 @@
+---
+import config from "@/config/config.json";
+import Base from "@/layouts/Base.astro";
+import { markdownify } from "@/lib/utils/textConverter";
+import { getEntryBySlug } from "astro:content";
+import { FaAddressCard, FaEnvelope, FaPhoneAlt } from "react-icons/fa";
+import { AiOutlineBilibili, AiOutlineWeibo, AiFillZhihuSquare } from "react-icons/ai";
+
+const entry = await getEntryBySlug("pages", "contact");
+const { contact_form_action } = config.params;
+const { email, bilibili, weibo } = config.contactinfo;
+const { title, description, meta_title, image } = entry.data;
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+  <section class="section">
+    <div class="container">
+      <h1 set:html={markdownify(title)} class="h2 page-heading" />
+      <div class="row md:gx-5 gy-5">
+        <div class="sm:col-5 md:col-4">
+          <p class="mb-8 text-2xl font-bold text-theme-dark">Sophie Eden</p>
+          <ul class="flex flex-col space-y-8">
+            <li>
+              <div class="flex text-theme-dark items-center text-xl">
+                <AiOutlineBilibili className="mr-3 text-primary" />
+                <p class="font-semibold">B站</p>
+              </div>
+              <p set:html={markdownify(bilibili)} class="mt-2 leading-5 pl-8" />
+            </li>
+            <li>
+              <div class="flex text-theme-dark items-center text-xl">
+                <AiOutlineWeibo className="mr-3 text-primary" />
+                <p class="font-semibold">微博</p>
+              </div>
+              <p set:html={markdownify(weibo)} class="mt-2 leading-5 pl-8" />
+            </li>
+            <li>
+              <div class="flex text-theme-dark items-center text-xl">
+                <FaEnvelope className="mr-3 text-primary" />
+                <p class="font-semibold">Email</p>
+              </div>
+              <p set:html={markdownify(email)} class="mt-2 leading-5 pl-8 content" />
+            </li>
+          </ul>
+        </div>
+        <div class="sm:col-7 md:col-8">
+          <form class="contact-form row gy-2 justify-center" method="POST" action={contact_form_action}>
+            <div class="lg:col-6">
+              <label class="mb-2 block" for="name">姓名 <span class="text-red-600">*</span></label>
+              <input class="form-input w-full" name="name" type="text" required />
+            </div>
+            <div class="lg:col-6">
+              <label class="mb-2 block" for="email">Email <span class="text-red-600">*</span></label>
+              <input class="form-input w-full" name="email" type="email" required />
+            </div>
+            <div class="col-12">
+              <label class="mb-2 block" for="subject">主题</label>
+              <input
+                class="form-input w-full"
+                name="subject"
+                type="text"
+              />
+            </div>
+            <div class="col-12">
+              <label class="mb-2 block" for="message">信息 <span class="text-red-600">*</span></label>
+              <textarea class="form-textarea w-full" rows="4"></textarea>
+            </div>
+            <div class="col-12">
+              <button class="btn btn-primary mt-2">投递</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+</Base>

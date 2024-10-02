@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "幻术同盟",
+    "base_url": "http://picture.sophie-eden.ltd",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "34",
+    "logo_text": "幻术同盟"
+  },
+
+  "settings": {
+    "pagination": 14,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "Sophie Eden",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "不确定之物的终点站·聆听万物之声·资讯统合思念体·薛定谔的猫"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "[辽ICP备2023012496号-1](https://beian.miit.gov.cn/#/Integrated/recordQuery)    ![](http://www.beian.gov.cn/img/new/gongan.png)[辽公网安备21080202000249号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=21080202000249)"
+  },
+
+  "contactinfo": {
+    "bilibili": "[全知之神](https://react-icons.github.io/react-icons/)",
+    "weibo": "[迷锁魔方](https://weibo.com/u/3103384971)",
+    "email": "457061201@qq.com"
+  }
+}
