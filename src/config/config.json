@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "幻术同盟",
-    "base_url": "http://picture.sophie-eden.ltd",
+    "base_url": "https://picture.sophie-eden.ltd",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
