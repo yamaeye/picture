@@ -174,6 +174,34 @@ declare module 'astro:content' {
   collection: "authors";
   data: InferEntrySchema<"authors">
 } & { render(): Render[".md"] };
+"两面宿傩.md": {
+	id: "两面宿傩.md";
+  slug: "两面宿傩";
+  body: string;
+  collection: "authors";
+  data: InferEntrySchema<"authors">
+} & { render(): Render[".md"] };
+"奇犽·揍敌客.md": {
+	id: "奇犽·揍敌客.md";
+  slug: "奇犽揍敌客";
+  body: string;
+  collection: "authors";
+  data: InferEntrySchema<"authors">
+} & { render(): Render[".md"] };
+"奇犽·揍敌客.sync-conflict-20250519-143322-F26TPNK.md": {
+	id: "奇犽·揍敌客.sync-conflict-20250519-143322-F26TPNK.md";
+  slug: "奇犽揍敌客sync-conflict-20250519-143322-f26tpnk";
+  body: string;
+  collection: "authors";
+  data: InferEntrySchema<"authors">
+} & { render(): Render[".md"] };
+"西索.md": {
+	id: "西索.md";
+  slug: "西索";
+  body: string;
+  collection: "authors";
+  data: InferEntrySchema<"authors">
+} & { render(): Render[".md"] };
 };
 "pages": {
 "404.md": {
