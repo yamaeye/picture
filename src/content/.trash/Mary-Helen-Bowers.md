@@ -1,6 +1,6 @@
 ---
 title: Mary Helen Bowers
-image: /images/subject/beautiful-ballet.jpg
+image: "/images/subject/beautiful-ballet.jpg"
 description: "“美丽芭蕾”创始人。"
 social:
   bilibili: https://space.bilibili.com/1718958133

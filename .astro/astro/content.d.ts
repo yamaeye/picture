@@ -167,9 +167,9 @@ declare module 'astro:content' {
   collection: "authors";
   data: InferEntrySchema<"authors">
 } & { render(): Render[".md"] };
-"Mary-Helen-Bowers.md": {
-	id: "Mary-Helen-Bowers.md";
-  slug: "mary-helen-bowers";
+"Zack.md": {
+	id: "Zack.md";
+  slug: "zack";
   body: string;
   collection: "authors";
   data: InferEntrySchema<"authors">
@@ -181,16 +181,51 @@ declare module 'astro:content' {
   collection: "authors";
   data: InferEntrySchema<"authors">
 } & { render(): Render[".md"] };
-"奇犽·揍敌客.md": {
-	id: "奇犽·揍敌客.md";
-  slug: "奇犽揍敌客";
+"史提尔·马格努斯.md": {
+	id: "史提尔·马格努斯.md";
+  slug: "史提尔马格努斯";
   body: string;
   collection: "authors";
   data: InferEntrySchema<"authors">
 } & { render(): Render[".md"] };
-"奇犽·揍敌客.sync-conflict-20250519-143322-F26TPNK.md": {
-	id: "奇犽·揍敌客.sync-conflict-20250519-143322-F26TPNK.md";
-  slug: "奇犽揍敌客sync-conflict-20250519-143322-f26tpnk";
+"夜刀神狗朗.md": {
+	id: "夜刀神狗朗.md";
+  slug: "夜刀神狗朗";
+  body: string;
+  collection: "authors";
+  data: InferEntrySchema<"authors">
+} & { render(): Render[".md"] };
+"奇犽.md": {
+	id: "奇犽.md";
+  slug: "奇犽";
+  body: string;
+  collection: "authors";
+  data: InferEntrySchema<"authors">
+} & { render(): Render[".md"] };
+"御芍神紫.md": {
+	id: "御芍神紫.md";
+  slug: "御芍神紫";
+  body: string;
+  collection: "authors";
+  data: InferEntrySchema<"authors">
+} & { render(): Render[".md"] };
+"晓美焰.md": {
+	id: "晓美焰.md";
+  slug: "晓美焰";
+  body: string;
+  collection: "authors";
+  data: InferEntrySchema<"authors">
+} & { render(): Render[".md"] };
+"淡岛世理.md": {
+	id: "淡岛世理.md";
+  slug: "淡岛世理";
+  body: string;
+  collection: "authors";
+  data: InferEntrySchema<"authors">
+} & { render(): Render[".md"] };
+"草薙出云.md": {
+	id: "草薙出云.md";
+  slug: "草薙出云";
   body: string;
   collection: "authors";
   data: InferEntrySchema<"authors">
@@ -283,6 +318,20 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"一方通行.md": {
+	id: "一方通行.md";
+  slug: "一方通行";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"五条悟.md": {
+	id: "五条悟.md";
+  slug: "五条悟";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "優しい詩.md": {
 	id: "優しい詩.md";
   slug: "優しい詩";
@@ -300,6 +349,13 @@ declare module 'astro:content' {
 "劫.md": {
 	id: "劫.md";
   slug: "劫";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"周防尊.md": {
+	id: "周防尊.md";
+  slug: "周防尊";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
