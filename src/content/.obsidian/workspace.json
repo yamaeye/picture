@@ -41,12 +41,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "authors/夜刀神狗朗.md",
+                "file": "authors/逆发结罗.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "夜刀神狗朗"
+              "title": "逆发结罗"
+            }
+          },
+          {
+            "id": "3c7e358afe5f4552",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "authors/逆发结罗.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "逆发结罗"
+            }
+          },
+          {
+            "id": "86494f38766b31aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "authors/杀生丸.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "杀生丸"
+            }
+          },
+          {
+            "id": "cfebac8cefa0aab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/小丑.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "小丑"
             }
           },
           {
@@ -78,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -254,12 +296,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "36b9d40d406bcf2d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "笔记复习序列"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -286,34 +338,34 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "e68bcb11fdbfb205",
+  "active": "cfebac8cefa0aab1",
   "lastOpenFiles": [
-    "posts/一方通行.md",
-    "posts/五条悟.md",
+    "posts/花城.md",
+    "posts/玛奇.md",
+    "posts/鬼舞辻无惨.md",
+    "posts/小丑.md",
+    "authors/逆发结罗.md",
+    "authors/奈落.md",
+    "authors/花城.md",
     "authors/晓美焰.md",
+    "authors/杀生丸.md",
+    "authors/库洛洛.md",
+    "authors/两面宿傩.md",
+    "posts/伊尔迷.md",
+    "posts/周防尊.md",
+    "posts/一方通行.md",
+    "authors/夜刀神狗朗.md",
+    "posts/五条悟.md",
     "authors/Zack.md",
     "authors/淡岛世理.md",
-    "posts/周防尊.md",
     "authors/史提尔·马格努斯.md",
     "posts/美丽芭蕾：拉伸.md",
     "posts/美丽芭蕾：腰部.md",
     "posts/美丽芭蕾：腿部.md",
-    "authors/两面宿傩.md",
     "authors/Mary-Helen-Bowers.md",
     "authors/西索.md",
     "authors/奇犽.md",
     "authors/御芍神紫.md",
-    "authors/夜刀神狗朗.md",
-    "authors/草薙出云.md",
-    "posts/劫.md",
-    "posts/待人.md",
-    "posts/光役.md",
-    "authors/未命名 1.md",
-    "authors/周防尊.md",
-    "posts/空生.md",
-    "posts/星辰守候.md",
-    "pages/404.md",
-    "posts/優しい詩.md",
     "lesson/美丽芭蕾：腿部.md.crswap",
     "lesson/美丽芭蕾：腿部.md.1.crswap",
     "lesson",

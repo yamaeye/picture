@@ -181,9 +181,9 @@ declare module 'astro:content' {
   collection: "authors";
   data: InferEntrySchema<"authors">
 } & { render(): Render[".md"] };
-"史提尔·马格努斯.md": {
-	id: "史提尔·马格努斯.md";
-  slug: "史提尔马格努斯";
+"史提尔.md": {
+	id: "史提尔.md";
+  slug: "史提尔";
   body: string;
   collection: "authors";
   data: InferEntrySchema<"authors">
@@ -202,6 +202,20 @@ declare module 'astro:content' {
   collection: "authors";
   data: InferEntrySchema<"authors">
 } & { render(): Render[".md"] };
+"奈落.md": {
+	id: "奈落.md";
+  slug: "奈落";
+  body: string;
+  collection: "authors";
+  data: InferEntrySchema<"authors">
+} & { render(): Render[".md"] };
+"库洛洛.md": {
+	id: "库洛洛.md";
+  slug: "库洛洛";
+  body: string;
+  collection: "authors";
+  data: InferEntrySchema<"authors">
+} & { render(): Render[".md"] };
 "御芍神紫.md": {
 	id: "御芍神紫.md";
   slug: "御芍神紫";
@@ -212,6 +226,13 @@ declare module 'astro:content' {
 "晓美焰.md": {
 	id: "晓美焰.md";
   slug: "晓美焰";
+  body: string;
+  collection: "authors";
+  data: InferEntrySchema<"authors">
+} & { render(): Render[".md"] };
+"杀生丸.md": {
+	id: "杀生丸.md";
+  slug: "杀生丸";
   body: string;
   collection: "authors";
   data: InferEntrySchema<"authors">
@@ -233,6 +254,13 @@ declare module 'astro:content' {
 "西索.md": {
 	id: "西索.md";
   slug: "西索";
+  body: string;
+  collection: "authors";
+  data: InferEntrySchema<"authors">
+} & { render(): Render[".md"] };
+"逆发结罗.md": {
+	id: "逆发结罗.md";
+  slug: "逆发结罗";
   body: string;
   collection: "authors";
   data: InferEntrySchema<"authors">
@@ -332,6 +360,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"伊尔迷.md": {
+	id: "伊尔迷.md";
+  slug: "伊尔迷";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "優しい詩.md": {
 	id: "優しい詩.md";
   slug: "優しい詩";
@@ -363,6 +398,13 @@ declare module 'astro:content' {
 "唯一的星光.md": {
 	id: "唯一的星光.md";
   slug: "唯一的星光";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"小丑.md": {
+	id: "小丑.md";
+  slug: "小丑";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
@@ -409,6 +451,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"玛奇.md": {
+	id: "玛奇.md";
+  slug: "玛奇";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "空生.md": {
 	id: "空生.md";
   slug: "空生";
@@ -444,6 +493,13 @@ declare module 'astro:content' {
   collection: "posts";
   data: InferEntrySchema<"posts">
 } & { render(): Render[".md"] };
+"花城.md": {
+	id: "花城.md";
+  slug: "花城";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
 "花鳥諷詠.md": {
 	id: "花鳥諷詠.md";
   slug: "花鳥諷詠";
@@ -454,6 +510,13 @@ declare module 'astro:content' {
 "蝴蝶夫人.md": {
 	id: "蝴蝶夫人.md";
   slug: "蝴蝶夫人";
+  body: string;
+  collection: "posts";
+  data: InferEntrySchema<"posts">
+} & { render(): Render[".md"] };
+"鬼舞辻无惨.md": {
+	id: "鬼舞辻无惨.md";
+  slug: "鬼舞辻无惨";
   body: string;
   collection: "posts";
   data: InferEntrySchema<"posts">
