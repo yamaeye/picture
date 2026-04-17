@@ -1,8 +1,8 @@
 [{
     "avatar": "/images/friends/两面宿傩1.jpg",
-    "name": "秦彻",
+    "name": "金信",
     "introduction": "暗点组织首领，唯一一个从时空监狱里成功离开的传说",
-    "url": "/tags/秦彻",
+    "url": "/tags/金信",
     "title": "开始追踪"
 }, {
     "avatar": "/images/friends/一方通行1.jpeg",
@@ -11,15 +11,63 @@
     "url": "/tags/一方通行",
     "title": "开始随行"
 }, {
-    "avatar": "/images/friends/地藏1.jpg",
+    "avatar": "/images/friends/地藏7.jpg",
     "name": "花城",
     "introduction": "安忍不动如大地，静虑深密如秘藏，坐拥鬼市城主之位",
     "url": "/tags/花城",
     "title": "开始漫步"
 }, {
-    "avatar": "/images/friends/神威1.png",
+    "avatar": "/images/friends/神威2.jpeg",
     "name": "神威",
     "introduction": "远空舰队新任执舰官，斩妖除魔，杀伐四方",
     "url": "/tags/神威",
     "title": "开始观测"
+}, {
+    "avatar": "/images/friends/流川枫9.jpg",
+    "name": "沈星回",
+    "introduction": "神界第一神将，回溯小组的队长",
+    "url": "/tags/沈星回",
+    "title": "开始倒带"
+}, {
+    "avatar": "/images/friends/缇奇1.jpg",
+    "name": "该隐",
+    "introduction": "吸血鬼始祖，可以随意进入他想进入的位置",
+    "url": "/tags/该隐",
+    "title": "开始潜入"
+}, {
+    "avatar": "/images/friends/疯帽子1.jpeg",
+    "name": "小丑",
+    "introduction": "哥谭市最为危险可怕的罪犯，举止怪诞而疯癫",
+    "url": "/tags/小丑",
+    "title": "开始游玩"
+}, {
+    "avatar": "/images/friends/六道骸3.jpeg",
+    "name": "御芍神紫",
+    "introduction": "剑术高超，右眼内宿有六道轮回的特殊能力",
+    "url": "/tags/御芍神紫",
+    "title": "开始起舞"
+}, {
+    "avatar": "/images/friends/藤原佐为2.jpeg",
+    "name": "安倍晴明",
+    "introduction": "学园都市统括理事长，二十世纪最伟大的魔法师，精通阴阳术",
+    "url": "/tags/安倍晴明",
+    "title": "开始偶遇"
+}, {
+    "avatar": "/images/friends/浦原喜助5.jpg",
+    "name": "福尔摩斯",
+    "introduction": "技术开发局局长，擅长推理分析和发明物品",
+    "url": "/tags/福尔摩斯",
+    "title": "开始探索"
+}, {
+    "avatar": "/images/friends/萨菲罗斯11.jpg",
+    "name": "路西法",
+    "introduction": "智商超群的罪犯，为控制全世界而暗暗行动",
+    "url": "/tags/路西法",
+    "title": "开始颠覆"
+}, {
+    "avatar": "/images/friends/奈落2.jpg",
+    "name": "奈落",
+    "introduction": "毁灭之神，灾祸之神，数一数二的灵力高手",
+    "url": "/tags/奈落",
+    "title": "开始坠落"
 }]
