@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+temp/
+.deploy*/
+_multiconfig.yml
+.vercel
+.history/
+.ecloud/
+source/_posts/.obsidian/

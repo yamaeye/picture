@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>Sophie Eden</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <id>https://picture.sophie-eden.ltd/</id>
+  <link href="https://picture.sophie-eden.ltd/" rel="alternate"/>
+  <link href="https://picture.sophie-eden.ltd/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, Sophie Eden</rights>
+  <subtitle>幻术同盟</subtitle>
+  <title>幻术同盟</title>
+  <updated>2026-04-17T06:46:04.722Z</updated>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/17/ri-luo/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/17/ri-luo/"/>
+    <published>2026-04-17T06:45:07.000Z</published>
+    <summary>
+      <![CDATA[<p><img]]>
+    </summary>
+    <title>日落</title>
+    <updated>2026-04-17T06:46:04.722Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/17/zhi-wu/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/17/zhi-wu/"/>
+    <published>2026-04-17T06:40:47.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="/images/plant/1.jpg"></p>
+<p><img]]>
+    </summary>
+    <title>植物</title>
+    <updated>2026-04-17T06:48:26.995Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/17/niao/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/17/niao/"/>
+    <published>2026-04-17T06:38:38.000Z</published>
+    <summary>
+      <![CDATA[<p><img]]>
+    </summary>
+    <title>鸟</title>
+    <updated>2026-04-17T06:39:10.734Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/17/mao/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/17/mao/"/>
+    <published>2026-04-17T06:33:24.000Z</published>
+    <summary>
+      <![CDATA[<p><img]]>
+    </summary>
+    <title>猫</title>
+    <updated>2026-04-17T06:33:59.205Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/17/tu-zi/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/17/tu-zi/"/>
+    <published>2026-04-17T06:26:23.000Z</published>
+    <summary>
+      <![CDATA[<p><img]]>
+    </summary>
+    <title>兔子</title>
+    <updated>2026-04-17T06:27:32.222Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/17/lu-xing/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/17/lu-xing/"/>
+    <published>2026-04-17T06:21:11.000Z</published>
+    <summary>
+      <![CDATA[<p><img]]>
+    </summary>
+    <title>旅行</title>
+    <updated>2026-04-17T06:22:34.417Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/17/xiang-cun/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/17/xiang-cun/"/>
+    <published>2026-04-17T06:18:15.000Z</published>
+    <summary>
+      <![CDATA[<p><img]]>
+    </summary>
+    <title>乡村</title>
+    <updated>2026-04-17T06:20:15.380Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/17/shan/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/17/shan/"/>
+    <published>2026-04-17T06:07:23.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="/images/mountain/1.jpg"></p>
+<p><img src="/images/mountain/2.jpg"></p>
+<p><img src="/images/mountain/3.jpg"></p>
+<p><img]]>
+    </summary>
+    <title>山</title>
+    <updated>2026-04-17T06:47:44.300Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/17/cao/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/17/cao/"/>
+    <published>2026-04-17T06:01:42.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="/images/grass/1.jpg"></p>
+<p><img]]>
+    </summary>
+    <title>草</title>
+    <updated>2026-04-17T06:04:05.160Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/17/hua/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/17/hua/"/>
+    <published>2026-04-17T05:53:07.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="/images/flower/1.jpg"></p>
+<p><img src="/images/flower/2.jpg"></p>
+<p><img src="/images/flower/3.jpg"></p>
+<p><img]]>
+    </summary>
+    <title>花</title>
+    <updated>2026-04-17T06:28:37.933Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/17/sha-mo/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/17/sha-mo/"/>
+    <published>2026-04-17T05:51:18.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="/images/desert/1.jpg"></p>
+<p><img]]>
+    </summary>
+    <title>沙漠</title>
+    <updated>2026-04-17T06:23:51.133Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/17/jian-zhu/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/17/jian-zhu/"/>
+    <published>2026-04-17T05:49:28.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="/images/building/1.jpg"></p>
+<p><img src="/images/building/2.jpg"></p>
+<p><img]]>
+    </summary>
+    <title>建筑</title>
+    <updated>2026-04-17T06:49:36.739Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/17/xie-zi/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/17/xie-zi/"/>
+    <published>2026-04-17T05:43:42.000Z</published>
+    <summary>
+      <![CDATA[<p><img]]>
+    </summary>
+    <title>鞋子</title>
+    <updated>2026-04-17T05:44:32.446Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/17/hu-die/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/17/hu-die/"/>
+    <published>2026-04-17T05:38:30.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="/images/butterflies/1.jpg"></p>
+<p><img]]>
+    </summary>
+    <title>蝴蝶</title>
+    <updated>2026-04-17T06:30:35.348Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/17/hai/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/17/hai/"/>
+    <published>2026-04-17T05:29:53.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="/images/sea/1.jpg"></p>
+<p><img]]>
+    </summary>
+    <title>海</title>
+    <updated>2026-04-17T06:35:31.942Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="人物" scheme="https://picture.sophie-eden.ltd/categories/%E4%BA%BA%E7%89%A9/"/>
+    <category term="秦彻" scheme="https://picture.sophie-eden.ltd/tags/%E7%A7%A6%E5%BD%BB/"/>
+    <id>https://picture.sophie-eden.ltd/2025/10/27/qin-che/</id>
+    <link href="https://picture.sophie-eden.ltd/2025/10/27/qin-che/"/>
+    <published>2025-10-26T19:57:07.000Z</published>
+    <summary>
+      <![CDATA[<p><img src="/images/friends/%E7%A7%A6%E5%BD%BB2.jpg"></p>
+<p>菲罗斯星有史以来悬赏金额最高的宇宙级通缉犯及N109区暗点组织首领，Evol为可操控黑红雾气的能量控制，拥有读取思维的以太之眼，并赠予女主猎兔700手枪作为信物，在主线剧情中展现出操控黑红雾气形成触手状束缚的作战能力。</p>]]>
+    </summary>
+    <title>秦彻</title>
+    <updated>2026-04-17T03:07:59.000Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="人物" scheme="https://picture.sophie-eden.ltd/categories/%E4%BA%BA%E7%89%A9/"/>
+    <category term="一方通行" scheme="https://picture.sophie-eden.ltd/tags/%E4%B8%80%E6%96%B9%E9%80%9A%E8%A1%8C/"/>
+    <id>https://picture.sophie-eden.ltd/2025/10/10/ma-men/</id>
+    <link href="https://picture.sophie-eden.ltd/2025/10/10/ma-men/"/>
+    <published>2025-10-09T21:26:50.000Z</published>
+    <summary>
+      <![CDATA[<p>Mammon。古迦勒底语，意思是财富。在新约圣经中使用，是钱的化身。被形容是财富的邪神，诱使人为财富互相杀戮。在《失乐园》中，被打入地狱的众天使们便在玛门的指挥下发掘无数的珍宝以建造自己的圣殿。</p>
+<p>魔界小王子、所罗门七十二柱魔神之一，系路西法与米迦勒之子，掌控魔]]>
+    </summary>
+    <title>玛门</title>
+    <updated>2026-04-17T04:21:15.636Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="人物" scheme="https://picture.sophie-eden.ltd/categories/%E4%BA%BA%E7%89%A9/"/>
+    <category term="花城" scheme="https://picture.sophie-eden.ltd/tags/%E8%8A%B1%E5%9F%8E/"/>
+    <id>https://picture.sophie-eden.ltd/2025/06/17/di-cang/</id>
+    <link href="https://picture.sophie-eden.ltd/2025/06/17/di-cang/"/>
+    <published>2025-06-16T22:06:48.000Z</published>
+    <summary>
+      <![CDATA[<p>《地藏十轮经》中称其“安忍不动如大地，静虑深密如秘藏”。地藏菩萨受释迦牟尼佛嘱咐，在释迦既灭、弥勒未生之前，自誓必尽度六道众生，拯救诸苦，始愿成佛。其发有“众生度尽、方证菩提；地狱不空、誓不成佛”之大愿故被尊称为大愿地藏菩萨、幽冥教主。</p>
+<p><img src="/images/friends/%E5%9C%B0%E8%97%8F2.jpg"></p>
+<p>由于佛典记载，地藏菩萨在过去世中，曾经几度救出自己在地狱受苦的母亲，并在久远劫以来就不断发愿要救度一切罪苦众生尤其是地狱众生，所以这位菩萨被认为具“大孝”和“大愿”的德业，也因此被普遍尊称为“大愿地藏王菩萨”。</p>
+<p><img src="/images/friends/%E5%9C%B0%E8%97%8F3.jpg"></p>
+<p>民间相传，地藏菩萨的座骑，是能够分辨善恶贤愚的神兽谛听。其常被供奉于地藏菩萨的案侧，或直接雕刻地藏菩萨端坐于其背上的塑像。早期的地藏形象是在家菩萨装束，相貌如天人，装扮华丽，慈祥庄严（可见于敦煌、龙门石窟），为在家相，通常头戴宝冠，著在家居士服饰，庄严璎珞。</p>
+<p>唐代以后，地藏菩萨形像由华丽的天人形像变为沙门、比丘形象。今日地藏菩萨的佛像，最流行出家相，光头圆顶或头戴毗卢冠，身着袈裟，一手持宝珠，一手握锡杖；亦有持莲花与明珠者。日本天台宗有一种“胜军地藏”像，头戴兜胄，身着铠甲，佩大刀，手持幡与宝剑，意谓斩破烦恼而救渡众生脱离轮回。</p>
+<p><img src="/images/friends/%E5%9C%B0%E8%97%8F4.jpg"></p>
+<p><img src="/images/friends/%E5%9C%B0%E8%97%8F5.jpg"></p>
+<p><img src="/images/friends/%E5%9C%B0%E8%97%8F6.jpg"></p>
+<p><img src="/images/friends/%E5%9C%B0%E8%97%8F7.jpg"></p>
+<p><img src="/images/friends/%E5%9C%B0%E8%97%8F8.jpg"></p>
+<p><img src="/images/friends/%E5%9C%B0%E8%97%8F9.jpg"></p>
+<p><img src="/images/friends/%E5%9C%B0%E8%97%8F10.jpeg"></p>]]>
+    </summary>
+    <title>地藏</title>
+    <updated>2026-04-17T05:06:52.307Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="人物" scheme="https://picture.sophie-eden.ltd/categories/%E4%BA%BA%E7%89%A9/"/>
+    <category term="神威" scheme="https://picture.sophie-eden.ltd/tags/%E7%A5%9E%E5%A8%81/"/>
+    <id>https://picture.sophie-eden.ltd/2025/06/17/fa-hai/</id>
+    <link href="https://picture.sophie-eden.ltd/2025/06/17/fa-hai/"/>
+    <published>2025-06-16T22:06:42.000Z</published>
+    <summary>
+      <![CDATA[<p>金山寺住持大师。他拥有强大的法力，本着降妖除魔的职责拯救天下苍生。在追剿青白二蛇的途中，遭青蛇扰乱心性，他恼羞成怒作法致水漫金山，害死无辜。法海目睹白蛇得道成人产子后，在青蛇的质问下，心知闯不过情关。</p>
+<p><img src="/images/friends/%E6%B3%95%E6%B5%B72.jpg"></p>
+<p><img src="/images/friends/%E6%B3%95%E6%B5%B73.jpeg"></p>
+<p><img src="/images/friends/%E6%B3%95%E6%B5%B74.jpeg"></p>
+<p><img src="/images/friends/%E6%B3%95%E6%B5%B75.png"></p>]]>
+    </summary>
+    <title>法海</title>
+    <updated>2026-04-17T05:08:49.580Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="人物" scheme="https://picture.sophie-eden.ltd/categories/%E4%BA%BA%E7%89%A9/"/>
+    <category term="秦彻" scheme="https://picture.sophie-eden.ltd/tags/%E7%A7%A6%E5%BD%BB/"/>
+    <id>https://picture.sophie-eden.ltd/2025/06/16/lan-si-luo-te/</id>
+    <link href="https://picture.sophie-eden.ltd/2025/06/16/lan-si-luo-te/"/>
+    <published>2025-06-15T20:30:10.000Z</published>
+    <summary>
+      <![CDATA[<p>兰斯洛特即郎世乐，亚瑟传奇里亚瑟王领导的圆桌骑士中的传奇人物。勇敢强大且乐于助人，集温文尔雅，慷慨虔诚、彬彬有礼这些特性于一身，是亚瑟王最伟大的圆桌骑士之一，也是亚瑟王的养父爱克托骑士的哥哥。他是亚瑟王忠心而得力的骑士，但他和亚瑟王的王后桂妮维亚之间的恋情最终还是导致了圆桌的崩溃。</p>
+<p><img src="/images/friends/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B92.jpeg"></p>
+<p>兰斯洛特是班王和伊莲王后的儿子，他在还是婴儿时弃置湖边，被湖中的仙女养大，因而也有“湖上的兰斯洛特”之称。后来，他来到亚瑟王朝，长大后的兰斯洛特不仅英俊高大，而且还温柔体贴，成为了一名武艺高强，英勇善战的优秀圆桌骑士。亚瑟王对身为圆桌骑士佼佼者的兰斯洛特信赖有加，所以兰斯洛特则成为了王后的侍卫。</p>
+<p>一次，摩根女爵施用法术将兰斯洛特困入了凯利奥城堡的主塔中，逼迫他从几个相貌丑陋的女人中选出一个作为情人（分别是北卡利斯的王后、伊斯特兰的王后、外岛的女主）。但兰斯洛特并不为其所动，直截了当地拒绝了她的要求，摩根不得不停下了对兰斯洛特的羞辱。</p>
+<p><img src="/images/friends/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B93.jpg"></p>
+<p>对王后一往情深的兰斯洛特与战友强袭处刑场，硬生生劫走桂妮维亚，两人渡海逃往法兰西。虽然其后经过教皇的调解，迫于骑士的荣誉，兰斯洛特交还了桂妮维亚，桂妮维亚终于意识到是自己的存在给亚瑟王和国家带来灾厄，于是做了修女。</p>
+<p>桂妮维亚得知亚瑟王离去的消息后，决定一生都在修道院里忏悔、祈祷并救济贫苦。后来，痴心的兰斯洛特返回卡美洛继续追求桂妮维亚，然而王后已经当了修女，并且无论兰斯洛特怎样哀求都不肯见他，绝望的兰斯洛特最后也出家做了修道士，两人至死再未见面。这次争斗，所有人都是输家。此次争斗后，亚瑟王的传说就此终结。</p>
+<p><img src="/images/friends/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B94.jpg"></p>
+<p><img src="/images/friends/%E5%85%B0%E6%96%AF%E6%B4%9B%E7%89%B95.jpeg"></p>]]>
+    </summary>
+    <title>兰斯洛特</title>
+    <updated>2026-04-17T04:19:27.983Z</updated>
+  </entry>
+</feed>
