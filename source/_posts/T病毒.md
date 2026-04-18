@@ -2,7 +2,7 @@
 title: "T病毒"
 date: 2025-06-30T22:13:36+08:00
 categories :  [人物]
-tags : [虚]
+tags : [天元]
 img: "/images/friends/T病毒1.jpg"
 ---
 

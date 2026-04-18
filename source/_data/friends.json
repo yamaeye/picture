@@ -83,22 +83,22 @@
     "url": "/tags/拉比",
     "title": "开始检索"
 }, {
-    "avatar": "/images/friends/君麻吕3.jpeg",
-    "name": "小龙女",
-    "introduction": "龙虎山天师府门人，古墓派第三代掌门人",
-    "url": "/tags/小龙女",
-    "title": "开始发光"
-}, {
     "avatar": "/images/friends/药师兜2.jpg",
     "name": "黄昏",
     "introduction": "最有实力的谍报人员，精通医疗",
     "url": "/tags/黄昏",
     "title": "开始缝合"
 }, {
+    "avatar": "/images/friends/鬼舞辻无惨1.jpg",
+    "name": "鬼舞辻无惨",
+    "introduction": "外神之首，存活上千年的神秘术师，鬼的绝对支配者，统治整个无形帝国的最高领导者",
+    "url": "/tags/鬼舞辻无惨",
+    "title": "开始施法"
+}, {
     "avatar": "/images/friends/梅林10.jpeg",
-    "name": "奥丁",
+    "name": "千年伯爵",
     "introduction": "众神之王，传奇魔法师",
-    "url": "/tags/奥丁",
+    "url": "/tags/千年伯爵",
     "title": "开始施法"
 }, {
     "avatar": "/images/friends/毘沙门2.jpg",
@@ -114,9 +114,9 @@
     "title": "开始思考"
 }, {
     "avatar": "/images/friends/崇宫澪1.png",
-    "name": "虚",
+    "name": "天元",
     "introduction": "始源精灵，万物之母，龙脉力量的具现化",
-    "url": "/tags/虚",
+    "url": "/tags/天元",
     "title": "开始同化"
 }, {
     "avatar": "/images/friends/赤砂之蝎1.jpeg",
