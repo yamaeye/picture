@@ -43,7 +43,7 @@
 }, {
     "avatar": "/images/friends/六道骸3.jpeg",
     "name": "御芍神紫",
-    "introduction": "剑术高超，右眼内宿有六道轮回的特殊能力",
+    "introduction": "天生神明，世上最强的幻术师，剑术高超",
     "url": "/tags/御芍神紫",
     "title": "开始起舞"
 }, {
@@ -70,4 +70,70 @@
     "introduction": "毁灭之神，灾祸之神，数一数二的灵力高手",
     "url": "/tags/奈落",
     "title": "开始坠落"
+}, {
+    "avatar": "/images/friends/奇犽1.jpeg",
+    "name": "五条悟",
+    "introduction": "现代最强的咒术师，拥有窥知其他平行世界的能力",
+    "url": "/tags/五条悟",
+    "title": "开始起跳"
+}, {
+    "avatar": "/images/friends/电次2.jpg",
+    "name": "拉比",
+    "introduction": "记录历史的书翁，革命军参谋总长，黑帮家族的少当家",
+    "url": "/tags/拉比",
+    "title": "开始检索"
+}, {
+    "avatar": "/images/friends/君麻吕3.jpeg",
+    "name": "小龙女",
+    "introduction": "龙虎山天师府门人，古墓派第三代掌门人",
+    "url": "/tags/小龙女",
+    "title": "开始发光"
+}, {
+    "avatar": "/images/friends/药师兜2.jpg",
+    "name": "黄昏",
+    "introduction": "最有实力的谍报人员，精通医疗",
+    "url": "/tags/黄昏",
+    "title": "开始缝合"
+}, {
+    "avatar": "/images/friends/梅林10.jpeg",
+    "name": "奥丁",
+    "introduction": "众神之王，传奇魔法师",
+    "url": "/tags/奥丁",
+    "title": "开始施法"
+}, {
+    "avatar": "/images/friends/毘沙门2.jpg",
+    "name": "雅典娜",
+    "introduction": "智慧女神，女性姿态的最强武神",
+    "url": "/tags/雅典娜",
+    "title": "开始思考"
+}, {
+    "avatar": "/images/friends/野良2.jpeg",
+    "name": "野良",
+    "introduction": "超人工智能，隐秘机动总司令官",
+    "url": "/tags/野良",
+    "title": "开始思考"
+}, {
+    "avatar": "/images/friends/崇宫澪1.png",
+    "name": "虚",
+    "introduction": "始源精灵，万物之母，龙脉力量的具现化",
+    "url": "/tags/虚",
+    "title": "开始同化"
+}, {
+    "avatar": "/images/friends/赤砂之蝎1.jpeg",
+    "name": "L",
+    "introduction": "邪神和谎言之神，有史以来实力最强且最危险的黑巫师，天才傀儡师，世界第一侦探，幻影旅团的团长",
+    "url": "/tags/L",
+    "title": "开始计算"
+}, {
+    "avatar": "/images/friends/白鬼院凛凛蝶2.jpeg",
+    "name": "阎魔爱",
+    "introduction": "血之恶魔，灵力数一数二的巫女，可以满足人类几乎所有愿望",
+    "url": "/tags/阎魔爱",
+    "title": "开始感知"
+}, {
+    "avatar": "/images/friends/弥海砂4.jpeg",
+    "name": "神乐",
+    "introduction": "超人气国民偶像歌手，宇宙最强战斗种族，支配恶魔",
+    "url": "/tags/神乐",
+    "title": "开始歌颂"
 }]

@@ -2,7 +2,7 @@
 title: "Riddle"
 date: 2025-05-26T14:38:31+08:00
 categories :  [人物]
-tags : [一方通行]
+tags : [L]
 img:  "/images/friends/Riddle1.jpeg"
 ---
 

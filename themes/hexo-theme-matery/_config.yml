@@ -11,6 +11,12 @@ menu:
     url: /categories
     icon: fas fa-bookmark
     children:
+    - name: 歌词
+      url: /categories/歌词
+      icon: fas fa-image
+    - name: 教程
+      url: /categories/教程
+      icon: fas fa-image
     - name: 图库
       url: /categories/图库
       icon: fas fa-image
@@ -580,7 +586,7 @@ featureImages:
 # noreprint（不允许转载 not allowed to reprint）
 # pay（付费转载 pay for reprinting）
 reprint:
-  enable: true # whether enable reprint section 是否启用“转载规则限定模块”
+  enable: false # whether enable reprint section 是否启用“转载规则限定模块”
   default: cc_by
 
 # DaoVoice online contact
@@ -590,7 +596,7 @@ daovoice:
 
 # Tidio online contact
 tidio:
-  enable: true
+  enable: false
   public_key: xkpdplxqfjkyu6slzuswgovnqtby0zwy
 
 # 腾讯兔小巢，见https://txc.qq.com/
@@ -616,7 +622,7 @@ ribbon:
 
 # 背景动态彩带.
 ribbon_dynamic:
-  enable: false
+  enable: true
 
 # sharejs文章分享模块.
 # 支持顺序，可选项目为twitter, facebook, google, qq, qzone, wechat, weibo, douban, linkedin.
@@ -666,8 +672,8 @@ translate:
 #ICP备案信息尾部显示
 icp:
   enable: false
-  url: # 备案链接
-  text: # 备案信息
+  url: https://beian.miit.gov.cn/#/Integrated/index
+  text: 辽ICP备2023012496号-1
 
 # CDN访问加速 
 # 第一次使用本功能，一定要先配置url，再`hexo cl && hexo g && hexo d`部署到GitHub的仓库，注意！必须是GitHub的仓库！
