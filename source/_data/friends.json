@@ -7,19 +7,13 @@
 }, {
     "avatar": "/images/friends/一方通行1.jpeg",
     "name": "一方通行",
-    "introduction": "有史以来实力最强且最危险的黑巫师，拥有“学园都市第一的头脑”",
+    "introduction": "超人工智能，隐秘机动总司令官，掌控魔界金库，拥有“学园都市第一的头脑”",
     "url": "/tags/一方通行",
     "title": "开始随行"
-}, {
+},{
     "avatar": "/images/friends/地藏7.jpg",
-    "name": "花城",
-    "introduction": "安忍不动如大地，静虑深密如秘藏，坐拥鬼市城主之位",
-    "url": "/tags/花城",
-    "title": "开始漫步"
-}, {
-    "avatar": "/images/friends/神威2.jpeg",
     "name": "神威",
-    "introduction": "远空舰队新任执舰官，斩妖除魔，杀伐四方",
+    "introduction": "远空舰队新任执舰官，坐拥鬼市城主之位，斩妖除魔，杀伐四方",
     "url": "/tags/神威",
     "title": "开始观测"
 }, {
@@ -47,17 +41,23 @@
     "url": "/tags/御芍神紫",
     "title": "开始起舞"
 }, {
-    "avatar": "/images/friends/藤原佐为2.jpeg",
-    "name": "安倍晴明",
-    "introduction": "学园都市统括理事长，二十世纪最伟大的魔法师，精通阴阳术",
-    "url": "/tags/安倍晴明",
-    "title": "开始偶遇"
-}, {
     "avatar": "/images/friends/浦原喜助5.jpg",
     "name": "福尔摩斯",
     "introduction": "技术开发局局长，擅长推理分析和发明物品",
     "url": "/tags/福尔摩斯",
     "title": "开始探索"
+}, {
+    "avatar": "/images/friends/毘沙门2.jpg",
+    "name": "雅典娜",
+    "introduction": "智慧女神，女性姿态的最强武神",
+    "url": "/tags/雅典娜",
+    "title": "开始思考"
+}, {
+    "avatar": "/images/friends/藤原佐为2.jpeg",
+    "name": "天元",
+    "introduction": "始源精灵，万物之母，龙脉力量的具现化，学园都市统括理事长，二十世纪最伟大的魔法师",
+    "url": "/tags/天元",
+    "title": "开始同化"
 }, {
     "avatar": "/images/friends/萨菲罗斯11.jpg",
     "name": "路西法",
@@ -94,24 +94,6 @@
     "introduction": "众神之王，传奇魔法师",
     "url": "/tags/千年伯爵",
     "title": "开始施法"
-}, {
-    "avatar": "/images/friends/毘沙门2.jpg",
-    "name": "雅典娜",
-    "introduction": "智慧女神，女性姿态的最强武神",
-    "url": "/tags/雅典娜",
-    "title": "开始思考"
-}, {
-    "avatar": "/images/friends/野良2.jpeg",
-    "name": "野良",
-    "introduction": "超人工智能，隐秘机动总司令官",
-    "url": "/tags/野良",
-    "title": "开始思考"
-}, {
-    "avatar": "/images/friends/崇宫澪1.png",
-    "name": "天元",
-    "introduction": "始源精灵，万物之母，龙脉力量的具现化",
-    "url": "/tags/天元",
-    "title": "开始同化"
 }, {
     "avatar": "/images/friends/赤砂之蝎1.jpeg",
     "name": "L",
