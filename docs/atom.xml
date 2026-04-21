@@ -10,7 +10,23 @@
   <rights>All rights reserved 2026, Sophie Eden</rights>
   <subtitle>幻术同盟</subtitle>
   <title>幻术同盟</title>
-  <updated>2026-04-20T15:51:45.608Z</updated>
+  <updated>2026-04-21T04:22:32.511Z</updated>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="人物" scheme="https://picture.sophie-eden.ltd/categories/%E4%BA%BA%E7%89%A9/"/>
+    <category term="侠客" scheme="https://picture.sophie-eden.ltd/tags/%E4%BE%A0%E5%AE%A2/"/>
+    <id>https://picture.sophie-eden.ltd/2026/04/21/jia-wei-si/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/04/21/jia-wei-si/"/>
+    <published>2026-04-21T03:39:26.000Z</published>
+    <summary>
+      <![CDATA[<p>贾维斯（J.A.R.V.I.S.）是美国漫威漫画旗下人工智能系统，全称Just A Rather Very Intelligent System。</p>
+<p><img]]>
+    </summary>
+    <title>贾维斯</title>
+    <updated>2026-04-21T04:22:32.511Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Sophie Eden</name>
@@ -298,20 +314,5 @@
     </summary>
     <title>蝴蝶</title>
     <updated>2026-04-17T06:30:35.348Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Sophie Eden</name>
-    </author>
-    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
-    <id>https://picture.sophie-eden.ltd/2026/04/17/hai/</id>
-    <link href="https://picture.sophie-eden.ltd/2026/04/17/hai/"/>
-    <published>2026-04-17T05:29:53.000Z</published>
-    <summary>
-      <![CDATA[<p><img src="/images/sea/1.jpg"></p>
-<p><img]]>
-    </summary>
-    <title>海</title>
-    <updated>2026-04-17T06:35:31.942Z</updated>
   </entry>
 </feed>

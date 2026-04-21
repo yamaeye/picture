@@ -19,9 +19,27 @@
 }, {
     "avatar": "/images/friends/流川枫9.jpg",
     "name": "沈星回",
-    "introduction": "神界第一神将，回溯小组的队长",
+    "introduction": "神界第一神将，现代最强的咒术师，回溯小组的队长，拥有窥知其他平行世界的能力",
     "url": "/tags/沈星回",
     "title": "开始倒带"
+}, {
+    "avatar": "/images/friends/萨菲罗斯11.jpg",
+    "name": "奈落",
+    "introduction": "毁灭之神，灾祸之神，智商超群的罪犯，为控制全世界而暗暗行动",
+    "url": "/tags/奈落",
+    "title": "开始颠覆"
+}, {
+    "avatar": "/images/friends/浦原喜助5.jpg",
+    "name": "侠客",
+    "introduction": "智慧女神，女性姿态的最强武神，技术开发局局长，擅长推理分析和发明物品，最有实力的谍报人员，精通医疗",
+    "url": "/tags/侠客",
+    "title": "开始研发"
+}, {
+    "avatar": "/images/friends/电次2.jpg",
+    "name": "拉比",
+    "introduction": "记录历史的书翁，革命军参谋总长，黑帮家族的少当家",
+    "url": "/tags/拉比",
+    "title": "开始检索"
 }, {
     "avatar": "/images/friends/缇奇1.jpg",
     "name": "该隐",
@@ -41,47 +59,11 @@
     "url": "/tags/御芍神紫",
     "title": "开始起舞"
 }, {
-    "avatar": "/images/friends/浦原喜助5.jpg",
-    "name": "福尔摩斯",
-    "introduction": "技术开发局局长，擅长推理分析和发明物品",
-    "url": "/tags/福尔摩斯",
-    "title": "开始探索"
-}, {
-    "avatar": "/images/friends/毘沙门2.jpg",
-    "name": "雅典娜",
-    "introduction": "智慧女神，女性姿态的最强武神",
-    "url": "/tags/雅典娜",
-    "title": "开始思考"
-}, {
     "avatar": "/images/friends/藤原佐为2.jpeg",
     "name": "天元",
     "introduction": "众神之王，传奇魔法师，始源精灵，万物之母，龙脉力量的具现化，学园都市统括理事长",
     "url": "/tags/天元",
     "title": "开始施法"
-}, {
-    "avatar": "/images/friends/萨菲罗斯11.jpg",
-    "name": "奈落",
-    "introduction": "毁灭之神，灾祸之神，智商超群的罪犯，为控制全世界而暗暗行动",
-    "url": "/tags/奈落",
-    "title": "开始颠覆"
-}, {
-    "avatar": "/images/friends/奇犽1.jpeg",
-    "name": "五条悟",
-    "introduction": "现代最强的咒术师，拥有窥知其他平行世界的能力",
-    "url": "/tags/五条悟",
-    "title": "开始起跳"
-}, {
-    "avatar": "/images/friends/电次2.jpg",
-    "name": "拉比",
-    "introduction": "记录历史的书翁，革命军参谋总长，黑帮家族的少当家",
-    "url": "/tags/拉比",
-    "title": "开始检索"
-}, {
-    "avatar": "/images/friends/药师兜2.jpg",
-    "name": "黄昏",
-    "introduction": "最有实力的谍报人员，精通医疗",
-    "url": "/tags/黄昏",
-    "title": "开始缝合"
 }, {
     "avatar": "/images/friends/赤砂之蝎1.jpeg",
     "name": "L",
