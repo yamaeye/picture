@@ -10,7 +10,42 @@
   <rights>All rights reserved 2026, Sophie Eden</rights>
   <subtitle>幻术同盟</subtitle>
   <title>幻术同盟</title>
-  <updated>2026-04-21T04:22:32.511Z</updated>
+  <updated>2026-07-06T08:54:11.187Z</updated>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="人物" scheme="https://picture.sophie-eden.ltd/categories/%E4%BA%BA%E7%89%A9/"/>
+    <category term="金信" scheme="https://picture.sophie-eden.ltd/tags/%E9%87%91%E4%BF%A1/"/>
+    <id>https://picture.sophie-eden.ltd/2026/07/06/ye-lang/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/07/06/ye-lang/"/>
+    <published>2026-07-06T08:46:06.000Z</published>
+    <summary>
+      <![CDATA[<p>姓名：阿莱西奥·卢匹诺</p>
+<p>身高：186cm</p>
+<p>生日：4月10日</p>
+<p>出生地：南泽大陆</p>
+<p>在来到西西莉亚家族前，野狼的全部处世经验都来源于在下城区的摸爬滚打。来到西西莉亚家族后，他总算是学了一些书本知识，起码学会了简单的读写。不过]]>
+    </summary>
+    <title>野狼</title>
+    <updated>2026-07-06T08:54:11.187Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>Sophie Eden</name>
+    </author>
+    <category term="人物" scheme="https://picture.sophie-eden.ltd/categories/%E4%BA%BA%E7%89%A9/"/>
+    <category term="一方通行" scheme="https://picture.sophie-eden.ltd/tags/%E4%B8%80%E6%96%B9%E9%80%9A%E8%A1%8C/"/>
+    <id>https://picture.sophie-eden.ltd/2026/05/09/si-tu-ling/</id>
+    <link href="https://picture.sophie-eden.ltd/2026/05/09/si-tu-ling/"/>
+    <published>2026-05-09T09:51:18.000Z</published>
+    <summary>
+      <![CDATA[<p>其真实身份为六境之一逐水灵渊的小皇子晁元，因天生无灵脉自幼遭受哥哥们打压折磨，后借司徒家在外的小儿子身份成为司判堂主事，以肃清朗之风、明公正之气著称，被尊称为司徒仙君。</p>
+<p><img]]>
+    </summary>
+    <title>司徒岭</title>
+    <updated>2026-05-09T10:04:19.852Z</updated>
+  </entry>
   <entry>
     <author>
       <name>Sophie Eden</name>
@@ -285,34 +320,5 @@
     </summary>
     <title>建筑</title>
     <updated>2026-04-17T06:49:36.739Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Sophie Eden</name>
-    </author>
-    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
-    <id>https://picture.sophie-eden.ltd/2026/04/17/xie-zi/</id>
-    <link href="https://picture.sophie-eden.ltd/2026/04/17/xie-zi/"/>
-    <published>2026-04-17T05:43:42.000Z</published>
-    <summary>
-      <![CDATA[<p><img]]>
-    </summary>
-    <title>鞋子</title>
-    <updated>2026-04-17T05:44:32.446Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>Sophie Eden</name>
-    </author>
-    <category term="图库" scheme="https://picture.sophie-eden.ltd/categories/%E5%9B%BE%E5%BA%93/"/>
-    <id>https://picture.sophie-eden.ltd/2026/04/17/hu-die/</id>
-    <link href="https://picture.sophie-eden.ltd/2026/04/17/hu-die/"/>
-    <published>2026-04-17T05:38:30.000Z</published>
-    <summary>
-      <![CDATA[<p><img src="/images/butterflies/1.jpg"></p>
-<p><img]]>
-    </summary>
-    <title>蝴蝶</title>
-    <updated>2026-04-17T06:30:35.348Z</updated>
   </entry>
 </feed>

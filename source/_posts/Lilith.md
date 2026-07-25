@@ -2,10 +2,8 @@
 title: "Lilith"
 date: 2025-08-27T13:20:37+08:00
 categories :  [人物]
-tags : []
+tags : [阎魔爱]
 img:  "/images/friends/Lilith1.jpg"
-authors: ["白鬼院凛凛蝶"]
-
 ---
 
 ![](/images/friends/Lilith2.jpg)
